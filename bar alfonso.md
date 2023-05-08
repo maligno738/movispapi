@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",LA 1 HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.lig.iscaja.me:25461/xuTCdHhsXh/331004611318/355?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",LA 1 FULL HD

@@ -345,14 +345,10 @@ http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611
 http://f44931c5bcdc2f460a39bddbaef6e4fa.lig.iscaja.me:25461/xuTCdHhsXh/331004611318/24923?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="DAZN209.it" group-title="SPAIN",DAZN 1 FULL HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26623?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 1 4K
-http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26621?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="DAZN212.it" group-title="SPAIN",DAZN 2 HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.lig.iscaja.me:25461/xuTCdHhsXh/331004611318/24922?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="DAZN212.it" group-title="SPAIN",DAZN 2 FULL HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26624?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 2 4K
-http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26622?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 3 HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26628?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 3 FULL HD

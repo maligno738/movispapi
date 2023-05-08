@@ -45,10 +45,6 @@ http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611
 #EXTINF:0 tvg-id="24HorasHD.cl" group-title="SPAIN",24 HORAS FULL HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/27213?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",Malaga 24h Noticias
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ LCAMPEONES HEVC
-http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26067?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
-#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="SPAIN",CINE
-http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/27148?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ ESTRENOS HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/364?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ ESTRENOS FULL HD
@@ -287,6 +283,8 @@ http://f44931c5bcdc2f460a39bddbaef6e4fa.lig.iscaja.me:25461/xuTCdHhsXh/331004611
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/27233?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ LCAMPEONES FULL HD+
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/27232?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ LCAMPEONES HEVC
+http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26067?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ LCAMPEONES FULL HD
 http://f44931c5bcdc2f460a39bddbaef6e4fa.spa.iscaja.me:25461/xuTCdHhsXh/331004611318/26078?h=c8896d8a382667b4d59ad347a01d9c6d6025dcd8&z=94.130.221.29&i=29392
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",M+ LCAMPEONES 1080P

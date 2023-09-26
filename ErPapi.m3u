@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",SAGA DE CHURREROS
+https://i.ibb.co/3sdwY8C/5maspapa.jpg
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SUP MOVIES
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27147?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SkyShowtime 1

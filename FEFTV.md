@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://img.webme.com/pic/m/movispapi/program2.jpg" group-title="ES FEFTV",HORARIO
-https://img.webme.com/pic/m/movispapi/horario.jpg
+https://raw.githubusercontent.com/maligno738/movispapi/main/horario.mp4
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://img.webme.com/pic/m/movispapi/logo.png" group-title="ES FEFTV",FEFTV 1
 http://a72825a99630601ff353bc7f38764871.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27786?h=546b9a767ba6193f5bc659d2f91bc2cc7c5e68ba&z=94.130.221.29&i=29465
 #EXTINF:-1 tvg-name="FEFTV 5" tvg-logo="https://img.webme.com/pic/m/movispapi/logo.png" group-title="ES FEFTV",FEFTV 5

@@ -41,5 +41,5 @@ http://a72825a99630601ff353bc7f38764871.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://a72825a99630601ff353bc7f38764871.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27806?h=546b9a767ba6193f5bc659d2f91bc2cc7c5e68ba&z=94.130.221.29&i=29465
 #EXTINF:-1 tvg-name=" INFO FEFTV " tvg-logo="https://img.webme.com/pic/m/movispapi/logo.png" group-title="ES FEFTV",CANAL INFO FEFTV
 http://a72825a99630601ff353bc7f38764871.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27785?h=546b9a767ba6193f5bc659d2f91bc2cc7c5e68ba&z=94.130.221.29&i=29465
-#EXTINF:-1 tvg-name=" INFO FEFTV " tvg-logo="https://img.webme.com/pic/m/movispapi/logo1.png" group-title="ES FEFTV",ER PAPI MALAGA
+
 

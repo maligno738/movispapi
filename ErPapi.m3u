@@ -1262,7 +1262,6 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 #EXTINF:0 tvg-id="ext" group-title="[ES] SPORT",CRISTO
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27212?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 
-#EXTM3U
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://img.webme.com/pic/m/movispapi/program2.jpg" group-title="ES FEFTV",HORARIO
 https://raw.githubusercontent.com/maligno738/movispapi/main/horario.mp4
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://img.webme.com/pic/m/movispapi/logo.png" group-title="ES FEFTV",FEFTV 1

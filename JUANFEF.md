@@ -41,7 +41,4 @@ http://25684128986595409.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595409.ts
 http://25684128986595410.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595410.ts
 
 
-#EXTINF:-1 tvg-name="FEFTV 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="PRENSA",FEFTV 19
-http://96950821442595409.of1030ok.xyz:80/play/7NDPB82YXE/qJpNSPYn33p8/595409.ts
-#EXTINF:-1 tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="PRENSA",FEFTV 20
-http://96950821442595410.of1030ok.xyz:80/play/7NDPB82YXE/qJpNSPYn33p8/595410.ts
+

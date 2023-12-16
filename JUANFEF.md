@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-tvg-name="Insports 1 FHD (Solo Eventos)" tvg-logo="" group-title="ESPANA - FEF TV",Insports 1 FHD (Solo Eventos)
+#EXTINF:-1 xui-id="111219" tvg-id="" tvg-name="Insports 1 FHD (Solo Eventos)" tvg-logo="" group-title="ESPANA - FEF TV",Insports 1 FHD (Solo Eventos)
 http://rebeka.solanaflix.com:8080/play/PWxbwHtxTJcZmT4facOv4XPrLk9P3Cj9wZWKIqH6zV25n4Y9i_d5kDeDyhtUPjdj
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10354

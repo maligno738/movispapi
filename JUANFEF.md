@@ -86,7 +86,6 @@ http://rebeka.solanaflix.com:8080/play/PWxbwHtxTJcZmT4facOv4XPrLk9P3Cj9wZWKIqH6z
 http://rebeka.solanaflix.com:8080/play/PWxbwHtxTJcZmT4facOv4XPrLk9P3Cj9wZWKIqH6zV2L8D_TwJwDvu_5Xg1jh5rQ
 #EXTINF:-1 xui-id="111241" tvg-id="" tvg-name="Insports 23 FHD (Solo Eventos)" tvg-logo="" group-title="ESPANA - FEF TV",Insports 23 FHD (Solo Eventos)
 http://rebeka.solanaflix.com:8080/play/PWxbwHtxTJcZmT4facOv4XPrLk9P3Cj9wZWKIqH6zV021hqqgknYOjGK2s4XI08c
-#EXTINF:-1 xui-id="111242" tvg-id="" tvg-name="Insports 24 FHD (Solo Eventos)" tvg-logo="" group-title="ESPANA - FEF TV",Insports 24 FHD (Solo Eventos)
 
 #EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://25684128986595391.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595391.ts

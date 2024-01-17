@@ -11024,45 +11024,6 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/49926.mp4
 #EXTINF:0 tvg-id="avi" group-title="Últimas Agregadas",Sonora Santanera - San Marcos (2018)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/49927.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ACCION HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ACCION HD
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090923
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE COMEDIA 1" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE COMEDIA 1
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090924
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE COMEDIA 2" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE COMEDIA 2
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090925
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE FANTASIA 2" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA 2
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090926
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE FANTASIA HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA HD
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090927
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE FANTASIA SAGAS" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA SAGAS
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090928
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE INFANTIL HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE INFANTIL HD
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090930
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ROMANCE" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ROMANCE
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090931
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ROMANCE HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ROMANCE HD
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090932
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE TERROR" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE TERROR
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090933
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE TERROR HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE TERROR HD
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090934
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ZOMBIES" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ZOMBIES
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090935
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El chapuli­n colorado" tvg-logo="http://ceoapps.org/logos/chapulincolorado.png" group-title="TV | 24/7 Retro",24/7: El chapuli­n colorado
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090980
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="http://ceoapps.org/logos/elchavo8.png" group-title="TV | 24/7 Series",24/7: El chavo del 8
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2091028
-#EXTINF:-1 tvg-id="" tvg-name="24/7: he man" tvg-logo="http://ceoapps.org/logos/heman.png" group-title="TV | 24/7 Retro",24/7: he man
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090961
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Los locos Addams" tvg-logo="http://ceoapps.org/logos/locosadams.png" group-title="TV | 24/7 Retro",24/7: Los locos Addams
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090981
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Malcolm" tvg-logo="http://atlantis-mx.com/logos/malcolm.png" group-title="TV | 24/7 Series",24/7: Malcolm
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2091027
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Mazingerz" tvg-logo="http://ceoapps.org/logos/mazinger.png" group-title="TV | 24/7 Retro",24/7: Mazingerz
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090956
-#EXTINF:-1 tvg-id="" tvg-name="24/7: naruto" tvg-logo="http://ceoapps.org/logos/naruto.png" group-title="TV | 24/7 Infantil",24/7: naruto
-http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/2090902
-
 #EXTINF:-1 tvg-id="" tvg-name="(XXX) BRAZZERS TV Europe Adult" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="TV | XXX",(XXX) BRAZZERS TV Europe Adult
 http://185.155.103.50:8080/Moises05/Xa7sQH6bU5W2/215379
 #EXTINF:-1 tvg-id="" tvg-name="(XXX) Penthouse 1 HD Adult" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="TV | XXX",(XXX) Penthouse 1 HD Adult

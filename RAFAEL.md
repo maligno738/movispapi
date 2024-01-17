@@ -35,6 +35,199 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096848.mp4
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moonfall: Impacto Lunar (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nRUN5ywlehfB8opryZkXwfYSGAl.jpg" group-title="VOD | LAS MAS VISTAS",Moonfall: Impacto Lunar (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106124.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La Posesión (2021)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106258.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La Trampa Del Asesino (2007)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106260.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonic: La película (2020)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2111388.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",X (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2113423.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Batman (2022) [Latino]
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2113711.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Ambulance: Plan de huida (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2114512.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Uncharted: Fuera del mapa (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2114523.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonic 2: La película (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120435.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Morbius (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2121329.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Conspiración explosiva (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123164.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Isla Larva: La película (2020)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123169.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Corazón de Fuego (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123179.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",My Little Pony: Nueva generación (2021)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123180.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",¡Los Jóvenes Titanes en Acción! y DC Super Hero Girls: Caos en el Multiverso (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123181.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Asesino sin memoria (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123183.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Lunáticos (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123184.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La invasión: Ocupación alienígena (2021)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2123185.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Garra (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2124482.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Los Tigres del Norte: Historias que contar (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2124861.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Doctor Strange en el multiverso de la locura (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2125094.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",¿Y cómo es él? (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2128205.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La abuela (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096849.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Jurassic World Dominio (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2128509.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Minions: Nace un villano (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2128772.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Lightyear (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2129842.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",El teléfono negro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2130069.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Lightyear (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2130105.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Thor: Amor y Trueno (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2131473.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",El Hombre Gris (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2131673.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Depredador: La presa (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2133473.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Depredador: La presa (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2133474.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Elvis (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2134161.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Coco (2017)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2135915.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Top Gun: Maverick (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2136365.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Top Gun: Maverick (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2136366.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",DC Liga De Supermascotas (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2137444.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Némesis (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2137697.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Némesis (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2137698.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Dragon Ball Super: Super Hero (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2138494.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Dragon Ball Super: Super Hero (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2138495.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Pinocho de Guillermo del Toro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2139702.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Pinocho de Guillermo del Toro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2139703.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Cangrejo Negro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096841.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Abracadabra 2 (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2142655.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",¡Scooby-Doo! Dulce o Travesura (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2143038.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",¡Scooby-Doo! Dulce o Travesura (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2143039.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Halloween: La noche final (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2144098.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Black Adam (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151026.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Guardianes de la Galaxia: Especial de las fiestas (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151027.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Cuando Sea Joven (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151030.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Desencantada (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151031.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La Mujer Rey (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151066.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonríe (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151078.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonríe (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151080.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Trol (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151462.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Pinocho de Guillermo del Toro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151517.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Pinocho de Guillermo del Toro (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151518.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Emancipación (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151526.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Noche sin paz (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151703.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Noche sin paz (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151724.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Avatar: El camino del agua (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151736.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",de Roald Dahl: El musical (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151738.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Noche sin paz (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2152223.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Gato con Botas: El último deseo (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2152224.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",M3GAN (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2154054.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Pantera Negra: Wakanda por siempre (2022)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2154055.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Super Mario Bros. La película (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2164102.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Guardianes de la Galaxia volumen 3 (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2164109.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Rápidos y furiosos X (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2166844.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Spider-Man: A través del Spider-Verso (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2167679.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Transformers: El despertar de las bestias (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2167693.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Flash (2023) FHD
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2169863.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Transformers: El despertar de las bestias (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2169933.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Oppenheimer (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2171319.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Misión: Imposible - Sentencia mortal parte uno (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2171393.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Indiana Jones y el dial del destino (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2186968.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Barbie (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2187188.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonido De Libertad (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2187489.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",A millones de kilómetros (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2188520.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Blue Beetle (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2188521.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Misión: Imposible - Sentencia mortal parte uno (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189347.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Barbie (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189398.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La monja II (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189404.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",El Justiciero: Capítulo final (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189601.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",PAW Patrol: La súper película (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189621.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Los indestructibles 4 (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2189633.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Radical (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190085.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonido De Libertad (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190086.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Megalodón 2: El gran abismo (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190496.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Saw X: El juego del miedo (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190497.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Contrarreloj (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190498.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",El exorcista: Creyentes (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2190499.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",PAW Patrol: La súper película (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2191441.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Mansión embrujada (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2191862.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Welcome al Norte (2023)
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2192911.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Leo (2023) Latino
+http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2194501.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Askeladden - I Dovregubbens hall (2017)" tvg-logo="http://51.222.152.107/posters/1544120403283.jpg" group-title="VOD | Aventura +",Askeladden - I Dovregubbens hall (2017)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/46517.mp4

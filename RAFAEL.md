@@ -35,10 +35,13 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096848.mp4
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2096850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moonfall: Impacto Lunar (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nRUN5ywlehfB8opryZkXwfYSGAl.jpg" group-title="VOD | LAS MAS VISTAS",Moonfall: Impacto Lunar (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106124.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La Posesión (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Karem, La Posesión (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFjccRxU8aYj2NJIOit42zDNd7T.jpg" group-title="VOD | LAS MAS VISTAS",Karem, La Posesión (2021)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106258.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",La Trampa Del Asesino (2007)
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa Del Asesino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fCpeGJKXYJC5O1XmE92Yn1zSQXU.jpg" group-title="VOD | LAS MAS VISTAS",La Trampa Del Asesino (2007)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106260.mp4
+
+
+
 #EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",Sonic: La película (2020)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2111388.mp4
 #EXTINF:0 tvg-id="avi" group-title="VOD | LAS MAS VISTAS",X (2022)
@@ -589,10 +592,6 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/53862.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Captain Nova (2021)" tvg-logo="http://51.222.152.107/posters/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="VOD | Aventura +",Captain Nova (2021)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/53895.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Karem, La Posesión (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFjccRxU8aYj2NJIOit42zDNd7T.jpg" group-title="VOD | LAS MAS VISTAS",Karem, La Posesión (2021)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Trampa Del Asesino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fCpeGJKXYJC5O1XmE92Yn1zSQXU.jpg" group-title="VOD | LAS MAS VISTAS",La Trampa Del Asesino (2007)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2106260.mp4
 #EXTINF:-1 tvg-id="" tvg-name="11M: Terror en Madrid (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vuhSpdStKgnB0biWBctOYFgLeF3.jpg" group-title="VOD | Estrenos 2022",11M: Terror en Madrid (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2109956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Belle (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uboCDV8S5qOfV1PLyKXb9Wc4EL0.jpg" group-title="VOD | Estrenos 2022",Belle (2021)

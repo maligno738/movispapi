@@ -351,7 +351,7 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120808.mp4
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120809.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Thousand Little Cuts (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qO3rN9IKnj9GQrVTzG7p2WN8gpS.jpg" group-title="VOD | Estrenos1 2022",A Thousand Little Cuts (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Medidas correctivas (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg" group-title="VOD | Estrenos 12022",Medidas correctivas (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Medidas correctivas (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg" group-title="VOD | Estrenos1 2022",Medidas correctivas (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Candidata Asesina (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8V5DAPFXwkhti64koB7Y9wvtyMv.jpg" group-title="VOD | Estrenos1 2022",Candidata Asesina (2021)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2120812.mkv
@@ -1202,10 +1202,6 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151463.mp4
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151464.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Enmascarado (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAcf5WdiBB3VfdIMpR7tRUnZ6yC.jpg" group-title="VOD | Estrenos 2022",Enmascarado (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El ultimo paciente (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2vev4WurrfjEERunJxPADnxBWxp.jpg" group-title="VOD | Misterio",El ultimo paciente (2022)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Tropa Acción salva la Navidad (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/48UsicWkmpDvYwOyd6XiLirqXZ5.jpg" group-title="VOD | Animación",La Tropa Acción salva la Navidad (2022)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Asesino sin memoria (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zUa7VyFnt4Wj3NYIlh8fn8xkVqq.jpg" group-title="VOD | Estrenos 2022",Asesino sin memoria (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151482.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trol (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fAawlc51R1RS6qrIBCldrfkih5t.jpg" group-title="VOD | Estrenos 2022",Trol (2022)
@@ -1220,8 +1216,6 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151494.mp4
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151495.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La batalla de Leningrado (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5wcVdtdtmYoDxq7eeECR1DmQWnR.jpg" group-title="VOD | Estrenos 2022",La batalla de Leningrado (2019)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Me llamo Venganza (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zA0dVz2L2s9jIyQxXnL76OwF9DC.jpg" group-title="VOD | Accion",Me llamo Venganza (2022)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151497.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Secuestro en directo (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/17KUBVVPyjXYqn1P6vouLBe8laB.jpg" group-title="VOD | Estrenos 2022",Secuestro en directo (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151498.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fuerza bruta (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kf263PuO1qh6WCMeZ0XZf1GkbaF.jpg" group-title="VOD | Estrenos 2022",Fuerza bruta (2022)
@@ -6433,8 +6427,6 @@ http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2140745.mkv
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2140784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sangre por sangre (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" group-title="VOD | Crimen",Sangre por sangre (1993)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2159219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Me llamo Venganza (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zA0dVz2L2s9jIyQxXnL76OwF9DC.jpg" group-title="VOD | Crimen",Me llamo Venganza (2022)
-http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151476.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Enmascarado (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAcf5WdiBB3VfdIMpR7tRUnZ6yC.jpg" group-title="VOD | Crimen",Enmascarado (2022)
 http://185.155.103.50:8080/movie/Moises05/Xa7sQH6bU5W2/2151478.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Un Crimen Perfecto (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rfm9EtbaUWDzQAFfShb7X1uSczU.jpg" group-title="VOD | Crimen",Un Crimen Perfecto (1998)

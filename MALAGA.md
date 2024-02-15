@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="El Ultimo Mohicano" tvg-logo="https://m.media-amazon.com/images/I/91BOFZKYfcL._SY445_.jpg" group-title="MI CINE",ES: ultimo mohicano
 https://rs19.seedr.cc/ff_get/1706303463/El%20ultimo%20mohicano[DVDrip][]Spanish][www.lokotorrents.com].avi?st=t_MtaIKIEEamOcx035yVEQ&e=1708015121
-#EXTINF:0 tvg-id="Rocky III" tvg-logo="https://m.media-amazon.com/images/I/91BOFZKYfcL._SY445_.jpg" group-title="MI CINE",ES: ROCKY III
+#EXTINF:0 tvg-id="Rocky III" tvg-logo="https://image.tmdb.org/t/p/original/iCNiFteUbeHyDSLrhJHWRYW0mM0.jpg" group-title="MI CINE",ES: ROCKY III
 https://nw16.seedr.cc/ff_get/1706338102/ROCKY_III_DVDR.Title1.DVDRip.avi?st=72cmNIzTXLiGIGFZELdJpQ&e=1708020917
 #EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",LA 1 HD
 http://751450774e3e267522df6ad1527a087e.lig.iscaja.me:25461/9Z9pOHKXh8/797071049617/355?h=9f3ed22a0199da113ee1f78c859abb32829065a9&z=94.130.221.29&i=3361

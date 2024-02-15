@@ -5,7 +5,7 @@ https://rs19.seedr.cc/ff_get/1706303463/El%20ultimo%20mohicano[DVDrip][]Spanish]
 https://nw13.seedr.cc/ff_get/1706649348/ROCKY_DVDR__SPA.Title1.DVDRip.avi?st=kUrKzfocRjySfGZUuwtCQQ&e=1708089852
 #EXTINF:0 tvg-id="Rocky II" tvg-logo="https://image.tmdb.org/t/p/original/56HPt7v3nvUdELTUs5fBnHMRFKd.jpg" group-title="MI CINE",ES: ROCKY II 
 https://nw15.seedr.cc/ff_get/1706650376/ROCKY_II_DVDR.Title1.DVDRip.avi?st=eZWlp9b1CjbDhtRva423Zw&e=1708090151
-#EXTINF:0 tvg-id="Rocky III" tvg-logo="https://m.media-amazon.com/images/I/91BOFZKYfcL._SY445_.jpg" group-title="MI CINE",ES: ROCKY III
+#EXTINF:0 tvg-id="Rocky III" tvg-logo="https://image.tmdb.org/t/p/original/iCNiFteUbeHyDSLrhJHWRYW0mM0.jpg" group-title="MI CINE",ES: ROCKY III
 https://nw16.seedr.cc/ff_get/1706338102/ROCKY_III_DVDR.Title1.DVDRip.avi?st=72cmNIzTXLiGIGFZELdJpQ&e=1708020917
 #EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD FHD
 http://182060642233321265.of1124.xyz:80/play/vi829693/Wan6cEwDvt/321265.ts

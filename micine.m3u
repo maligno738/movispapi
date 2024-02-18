@@ -1082,17 +1082,17 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 
 #EXTINF:0 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="[ES] TDT",LA 1 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/355?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="LA2.es" group-title="[ES] TDT",LA 2 HD
+#EXTINF:0 tvg-id="LA2.es" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2017/09/la-2-hd.jpg" group-title="[ES] TDT",LA 2 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/421?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Antena3.es" group-title="[ES] TDT",ANTENA 3 HD
+#EXTINF:0 tvg-id="Antena3.es" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-1997.png" group-title="[ES] TDT",ANTENA 3 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/348?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Cuatro.es" group-title="[ES] TDT",CUATRO HD
+#EXTINF:0 tvg-id="Cuatro.es" tvg-logo="https://www.fataldelomio.com/wp-content/uploads/2021/09/cuatro.jpg" group-title="[ES] TDT",CUATRO HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/351?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Telecinco.es" group-title="[ES] TDT",TELECINCO HD
+#EXTINF:0 tvg-id="Telecinco.es" tvg-logo="https://www.formulatv.com/images/noticias/100000/100073/6_WJtBWcLaNqUsm5zE2gH7Y4Pv16FoRi98k.png" group-title="[ES] TDT",TELECINCO HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/374?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="[ES] TDT",LA SEXTA HD
+#EXTINF:0 tvg-id="LaSexta.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/s/xlasexta.jpg.pagespeed.ic.Rc50d6VgvZ.jpg" group-title="[ES] TDT",LA SEXTA HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/356?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="NovaTV.cz" group-title="[ES] TDT",NOVA
+#EXTINF:0 tvg-id="NovaTV.cz" tvg-logo="https://www.pbshawaii.org/wp-content/uploads/2015/04/NOVA_logo_1422_800.jpg" group-title="[ES] TDT",NOVA
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/453?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="Neox.es" group-title="[ES] TDT",NEOX
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/450?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465

@@ -1080,7 +1080,7 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",CRISTO
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27212?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 
-#EXTINF:0 tvg-id="LA1.es" group-title="[ES] TDT",LA 1 HD
+#EXTINF:0 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="[ES] TDT",LA 1 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/355?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="LA2.es" group-title="[ES] TDT",LA 2 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/421?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465

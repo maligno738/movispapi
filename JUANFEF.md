@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
+#EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://25684128986595391.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595391.ts
 #EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
 http://25684128986595392.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595392.ts

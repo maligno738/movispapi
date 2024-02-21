@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" INFORMACION" tvg-logo="https://4.bp.blogspot.com/-qoZzPVJfQbY/WfZPcYM2MuI/AAAAAAABqZY/S8SFAjs7dTExqD0wVhF7mwcxSbivxaCfACLcBGAs/s1600/emblema_guardia_civil.jpg" group-title="VOD | INFORMACION
-https://raw.githubusercontent.com/maligno738/movispapi/main/INFORMACION.mp4
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",MARIO BROO LA PELICULA
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4

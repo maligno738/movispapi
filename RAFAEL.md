@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MARIO BROO LA PELICULA" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2022/11/29/Nintendo-Super-Mario-Running-Retro-Graphic-49325961-1.png" group-title="MARIO ",MARIO BROO LA PELICULA
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://25684128986595391.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595391.ts
 #EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
@@ -42,6 +39,66 @@ http://25684128986595408.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595408.ts
 http://25684128986595409.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595409.ts
 #EXTINF:-1 tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
 http://25684128986595410.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595410.ts
+
+EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/445?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD+
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/26315?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 4K
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26140?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES FULL HD++
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27233?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES FULL HD+
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27232?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES FULL HD
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26078?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 1080P
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/26316?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES SD
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26317?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES +
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/26318?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES BAR
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27211?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 2 HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/439?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 2 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26080?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 3 HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/440?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 3 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26081?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 4  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/441?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 4 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26082?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 5  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/442?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 5 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26083?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 6  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/443?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 6 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26084?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 7  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/444?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 7 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26085?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 8 FULL HD   SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26086?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 9 FULL HD   SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26711?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 10 FULL HD   SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26712?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 11 FULL HD   SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26713?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 12 FULL HD   SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26714?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES 13 FULL HD  SOLO EVENTOS
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27215?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+
+#EXTINF:-1 tvg-name="MARIO BROO LA PELICULA" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2022/11/29/Nintendo-Super-Mario-Running-Retro-Graphic-49325961-1.png" group-title="MARIO ",MARIO BROO LA PELICULA
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg" group-title="ANIMACION",Earwig y la bruja
 https://archive.org/download/peliculas-studio-ghibli-latino/Earwig%20y%20la%20bruja.mp4

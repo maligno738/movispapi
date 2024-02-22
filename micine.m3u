@@ -1100,8 +1100,6 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25853?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="BeMad" tvg-logo="https://www.ecured.cu/images/9/9c/Be_Mad_(canal_de_televisi%C3%B3n).jpg" group-title="[ES] TDT",BeMad tv HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25870?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:-1 tvg-id="FuengirolaTV.TV" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="Fuengirola TV",Fuengirola TV
-https://secure.todostreaming.es/live/nerja-livestream.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="Clan",Clan GEO
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="Clan",Clan GEO
@@ -1118,11 +1116,8 @@ https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41d
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="RTVE Somos Cine",RTVE Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/carnavalsur/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="CarnavalSur",CarnavalSur
-https://cdnlive.codev8.net/rtvalive/smil:channel23.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="[ES] TDT" tvg-name="CostadelSol TV",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",CANAL SUR 2 SORDOS HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25850?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",7TV ANDALUCIA
@@ -1135,7 +1130,6 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25849?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",PTV MALAGA
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25852?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-
 #EXTINF:0 tvg-id="mega" group-title="[ES] TDT",mega
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25854?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="[ES] TDT",DMAX
@@ -1152,8 +1146,7 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25871?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",Malaga 24h Noticias
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27177?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Somos.es" group-title="[ES] TDT",SOMOS
-http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26342?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+
 #EXTINF:0 tvg-id="ext" group-title="[ES] SPORT",M+ LaLigaTV
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/435?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] SPORT",M+ LaLigaTV +

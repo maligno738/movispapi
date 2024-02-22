@@ -1098,14 +1098,16 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/450?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="AragonTVsat.sp" group-title="[ES] TDT",ARAGON TV INT
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/381?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="CanalSur.es" group-title="[ES] TDT",CANAL SUR HD
-http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25851?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="CanalSur.es" tvg-logo="https://atomarpormundo.com/wp-content/uploads/2018/06/canal-sur.png" group-title="[ES] TDT",CANAL SUR HD
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://atomarpormundo.com/wp-content/uploads/2018/06/canal-sur.png" 
 group-title="[ES] TDT" tvg-name="Canal Sur Andalucía",
 Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25851?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 
 
 

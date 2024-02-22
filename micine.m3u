@@ -1096,7 +1096,10 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/356?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="NovaTV.cz" tvg-logo="https://www.pbshawaii.org/wp-content/uploads/2015/04/NOVA_logo_1422_800.jpg" group-title="[ES] TDT",NOVA
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/453?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Neox.es" group-title="[ES] TDT",NEOX
+#EXTINF:0 tvg-id="Trece.es" tvg-logo="https://imagenes.eldebate.com/files/main_image/uploads/2022/04/07/624ea36daa7f3.jpeg" group-title="[ES] TDT",TRECE
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25853?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+
+#EXTINF:0 tvg-id="Neox.es" tvg-logo="https://i.ytimg.com/vi/DXjqcevi4NU/maxresdefault.jpg" group-title="[ES] TDT",NEOX
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/450?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="AragonTVsat.sp" group-title="[ES] TDT",ARAGON TV INT
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/381?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
@@ -1112,8 +1115,8 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25849?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",PTV MALAGA
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25852?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="Trece.es" group-title="[ES] TDT",TRECE
-http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25853?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+#EXTINF:0 tvg-id="ext" tvg-logo="edia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="[ES] TDT",BeMad tv HD
+http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25870?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="mega" group-title="[ES] TDT",mega
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25854?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="[ES] TDT",DMAX
@@ -1126,15 +1129,12 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25866?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="Ten.es" group-title="[ES] TDT",TEN
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25869?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-#EXTINF:0 tvg-id="ext" group-title="[ES] TDT",BeMad tv HD
-http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25870?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="Paramount.es" group-title="[ES] TDT",PARAMOUNT NETWORK
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25871?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",Malaga 24h Noticias
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27177?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="Somos.es" group-title="[ES] TDT",SOMOS
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/26342?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
-
 #EXTINF:0 tvg-id="ext" group-title="[ES] SPORT",M+ LaLigaTV
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/435?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] SPORT",M+ LaLigaTV +

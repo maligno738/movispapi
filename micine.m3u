@@ -1100,6 +1100,14 @@ http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/381?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="CanalSur.es" group-title="[ES] TDT",CANAL SUR HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25851?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://d33wubrfki0l68.cloudfront.net/2140973bc4c0b1536bd79691785ae59b39c0c52b/321fb/static/2142a91daf971eef30c99ce862fedb37/b52b2/da37d604-d7f1-4fd4-ba05-b37a30649992_canal-sur-andalucia.png" group-title="[ES] TDT" tvg-name="Canal Sur Andalucía",
+Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",CANAL SUR 2 HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/25850?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="[ES] TDT",7TV ANDALUCIA

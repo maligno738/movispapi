@@ -40,6 +40,87 @@ http://25684128986595409.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595409.ts
 #EXTINF:-1 tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
 http://25684128986595410.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595410.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
+http://182060642233165385.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
+http://182060642233165392.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SD
+http://182060642233165393.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165393.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
+http://182060642233262413.of1124.xyz:80/play/vi829693/Wan6cEwDvt/262413.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
+http://182060642233165398.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 3 HD
+http://182060642233165400.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165400.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 SD
+http://182060642233237729.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237729.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 SD
+http://182060642233237730.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237730.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 FHD
+http://182060642233237731.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237731.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 HD
+http://182060642233237732.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237732.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 FHD
+http://182060642233237733.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237733.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 HD
+http://182060642233237734.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237734.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 6 SD
+http://182060642233237735.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237735.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 7 SD
+http://182060642233237736.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237736.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 8 SD
+http://182060642233237737.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237737.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 9 SD
+http://182060642233237738.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237738.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 10 SD
+http://182060642233237739.of1124.xyz:80/play/vi829693/Wan6cEwDvt/237739.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
+http://182060642233268042.of1124.xyz:80/play/vi829693/Wan6cEwDvt/268042.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
+http://182060642233165407.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165407.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
+http://182060642233320785.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320785.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK HD
+http://182060642233320786.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320786.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK SD
+http://182060642233320789.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320789.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 HD
+http://182060642233320790.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320790.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 FHD
+http://182060642233325771.of1124.xyz:80/play/vi829693/Wan6cEwDvt/325771.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 SD
+http://182060642233325772.of1124.xyz:80/play/vi829693/Wan6cEwDvt/325772.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 2 HD
+http://182060642233329115.of1124.xyz:80/play/vi829693/Wan6cEwDvt/329115.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 FHD
+http://182060642233489190.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489190.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 HD
+http://182060642233489191.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489191.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 SD
+http://182060642233489192.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489192.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 4 HD
+http://182060642233489193.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489193.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 4 SD
+http://182060642233489194.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489194.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 HD
+http://182060642233489195.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489195.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 SD
+http://182060642233489196.of1124.xyz:80/play/vi829693/Wan6cEwDvt/489196.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES:LALIGA TV HYPERMOTION FHD
+http://182060642233571903.of1124.xyz:80/play/vi829693/Wan6cEwDvt/571903.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES:LALIGA TV HYPERMOTION HD
+http://182060642233571904.of1124.xyz:80/play/vi829693/Wan6cEwDvt/571904.ts
+#EXTINF:0 tvg-id="LaLigaTVHypermotion.es" group-title="ES  M+ LALIGA",ES:LALIGA TV HYPERMOTION SD
+http://182060642233571905.of1124.xyz:80/play/vi829693/Wan6cEwDvt/571905.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES:LALIGA TV HYPERMOTION 2 HD
+http://182060642233571906.of1124.xyz:80/play/vi829693/Wan6cEwDvt/571906.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES:LALIGA TV HYPERMOTION 3 HD
+http://182060642233571907.of1124.xyz:80/play/vi829693/Wan6cEwDvt/571907.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LALIGA+ FHD
+http://182060642233660537.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660537.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LALIGA+ 24/7 FHD
+http://182060642233660538.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660538.ts
+
 EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/445?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD+

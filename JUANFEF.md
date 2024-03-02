@@ -1,3 +1,205 @@
+{"name": "SÓLO EVENTOS",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"stations": [
+
+
+
+
+
+{"name": "FEF 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595391.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595391.ts"},
+
+
+
+{"name": "FEF 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595392.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595392.ts"},
+
+
+{"name": "FEF 3",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595393.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595393.ts"},
+
+
+{"name": "FEF 4",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595394.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595394.ts "},
+
+
+{"name": "FEF 5",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595395.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595395.ts"},
+
+
+
+{"name": "FEF 6",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595396.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595396.ts"},
+
+
+
+{"name": "FEF 7",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595397.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595397.ts"},
+
+
+
+{"name": "FEF 8",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595398.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595398.ts"},
+
+
+
+{"name": "FEF 9",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595399.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595399.ts"},
+
+
+
+
+{"name": "FEF 10 ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595400.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595400.ts"},
+
+
+
+{"name": "FEF 11",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595401.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595401.ts"},
+
+
+
+{"name": "FEF 12",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595402.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595402.ts"},
+
+
+
+{"name": "FEF 13",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595403.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595403.ts"},
+
+
+
+{"name": "FEF 14",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595404.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595404.ts"},
+
+
+
+{"name": "FEF 15",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595405.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595405.ts"},
+
+
+
+{"name": "FEF 16",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595406.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595406.ts"},
+
+
+
+{"name": "FEF 17",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595407.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595407.ts"},
+
+
+
+{"name": "FEF 18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595408.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595408.ts"},
+
+
+
+{"name": "FEF 19",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595409.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595409.ts"},
+
+
+
+{"name": "FEF 20",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/2048px-Royal_Spanish_Football_Federation_logo.svg.png",
+"url": "http://59297801550595410.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595410.ts"},
+
+
+
+{"name": "LALIGA+ TV 1",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77032"},
+
+
+
+
+{"name": "LALIGA+ TV 2",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77033"},
+
+
+
+{"name": "LALIGA+ TV 3",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77034"},
+
+
+
+{"name": "LALIGA+ TV 4",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77035"},
+
+
+
+
+{"name": "LALIGA+ TV 5",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77036"},
+
+
+
+
+{"name": "LALIGA+ TV 6",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77037"},
+
+
+
+
+{"name": "LALIGA+ TV 7",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77038"},
+
+
+
+
+{"name": "LALIGA+ TV 8",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77039"},
+
+
+
+{"name": "LALIGA+ TV 9",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77040"},
+
+
+
+
+{"name": "LALIGA+ TV 10",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77041"},
+
+
+
+{"name": "LALIGA+ TV 11",
+"image": "https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg=w240-h480-rw",
+"url": "http://ftp.look-tv.eu:8880/Melchorotis/Qu4pCEw2hbVj/77042"},
+
+
+
+
+]}]},
+
+
 #EXTM3U 
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://25684128986595391.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595391.ts

@@ -43,7 +43,7 @@ http://25684128986595410.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595410.ts
 
 #EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="ErPapi",FEFTV 1
 http://59297801550595391.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595391.ts
-#EXTINF:-1 tvg-name="FEFTV 2" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="ErPapi"ES FEFTV",FEFTV 2
+#EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="ErPapi"ES FEFTV",FEFTV 2
 http://59297801550595392.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595392.ts
 #EXTINF:-1 tvg-name="FEFTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/480px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="ErPapi",FEFTV 3
 http://59297801550595393.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595393.ts

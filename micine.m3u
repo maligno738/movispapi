@@ -83,7 +83,12 @@ https://s72.upstreamcdn.co/hls2/01/04827/qhr7q6n9wuyu_o/index-v1-a1.m3u8?t=gSAf1
 https://s64.upstreamcdn.co/hls2/01/04931/ek6uwseduuvt_n/index-v1-a1.m3u8?t=nNNMfWet2kD6dZkXFQkJtC-OUl41UuaSYBd1krY3YSs&s=1709486196&e=10800&f=24657526&i=37.134&sp=0
 #EXTINF:-1 tvg-id="" tvg-name="La sirenita (2023)" tvg-logo="https://i.ibb.co/jyL80G2/Fatum-801307257-large.jpg" group-title="Er Papi",La sirenita (2023)
 https://s30.upstreamcdn.co/hls2/01/04732/4kh7m9n80ovy_o/index-v1-a1.m3u8?t=67O7WSy0sMt34cxTQ7EuvNj73DHhxhuFz_ggDnI3wQA&s=1709486522&e=10800&f=24663226&i=37.134&sp=0
-
+#EXTINF:-1 tvg-id="" tvg-name="Los 3 mosqueteros: D'Artagnan (2023)" tvg-logo="https://i.ibb.co/dkW9s5H/Los-tres-mosqueteros-D-Artagnan-370301361-large.jpg" group-title="Er Papi",Los 3 mosqueteros: D'Artagnan (2023)
+https://s92.upstreamcdn.co/hls2/01/04727/dwyv9cc8oot3_o/index-v1-a1.m3u8?t=1rvvnSOre_OivHFTPph3MLIobfWp9XH8JUzRXPvdRoc&s=1709486869&e=10800&f=24663214&i=0.0&sp=0
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dial del destino (2023]" tvg-logo="https://i.ibb.co/2Nzvk5s/3-Sj5ub-Q0-BLXd6-Ju-ECq52-Ira8-Oor.jpg" group-title="Er Papi",Indiana Jones y el dial del destino (2023]
+https://s12.upstreamcdn.co/hls2/01/04829/805po9ld4jfh_o/index-v1-a1.m3u8?t=4VTOKe1RqqrKpdEy8TlCLCNElZZY_mwsD7mfBxZHccA&s=1709487059&e=10800&f=24663205&i=37.134&sp=0
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4 (2023)" tvg-logo="https://i.ibb.co/2Nzvk5s/3-Sj5ub-Q0-BLXd6-Ju-ECq52-Ira8-Oor.jpg" group-title="Er Papi",John Wick 4 (2023)
+https://s71.upstreamcdn.co/hls2/01/04650/l35ej7tigq41_o/index-v1-a1.m3u8?t=Cl6iMq-XgZXIavMESCpiBxPI8Eoni12n_pr1EU9jR8E&s=1709487230&e=10800&f=24663324&i=37.134&sp=0
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SUP MOVIES
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27147?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SkyShowtime 1

@@ -137,6 +137,21 @@ https://pelisplay.io/play?id=MTY4MTcz&option=latin
 https://upstream.to/embed-l552tns93puj.html
 #EXTINF:-1 tvg-id="" tvg-name="Togo" tvg-logo="https://www.dl.dropboxusercontent.com/s/mnnos1q95js2am5/togo.jpg" group-title="Er Papi",Togo
 https://uqload.com/embed-344by5a0uohb.html
+#EXTINF:-1 tvg-id="" tvg-name="LA QUE SE AVECINA " tvg-logo="https://album.mediaset.es/cimg/807030/2019/11/04/fd2b23d77558dc42c044deff1a02d0f4_4fd3.jpg" group-title="Er Papi",LA QUE SE AVECINA
+https://cdn7.lqsa.es/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FÍSICA O QUÍMICA " tvg-logo="https://i.ibb.co/J5QvytM/60af96aad604b.jpg" group-title="Er Papi",FÍSICA O QUÍMICA
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN EL PUNTO DE MIRA " tvg-logo="https://album.mediaset.es/cimg/2022/09/28/t8enelpuntodemirathumbnail_302b.jpeg" group-title="Er Papi",EN EL PUNTO DE MIRA
+https://stitcher.pluto.tv/stitch/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b161
+#EXTINF:-1 tvg-id="" tvg-name="AQUÍ NO HAY QUIÉN VIVA " tvg-logo="https://anhqv.es/wp-content/uploads/2016/10/31.jpg" group-title="Er Papi",AQUÍ NO HAY QUIÉN VIVA
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curro Jimenez " tvg-logo="https://pics.filmaffinity.com/Curro_Jimaenez_Serie_de_TV-461205311-large.jpg" group-title="Er Papi",Curro Jimenez
+https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b161
+#EXTINF:-1 tvg-id="" tvg-name="ENCANTADOR DE PERROS " tvg-logo="https://cadenaser.com/resizer/LFh3n8OcORXqNFGy77igk-w6Bdc=/1200x1200/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/GBG4QGKJQZKHVEJ6DZMYF6UHMM.jpg" group-title="Er Papi",ENCANTADOR DE PERROS
+https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b161
+#EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7 " tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/09c7129535ed6e221197dd80f41a7a6c4da81feb311e08b713fa7b6c5f99acf0._RI_TTW_.jpg" group-title="Er Papi",ANA Y LOS 7
+https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b1611
+
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SUP MOVIES
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.spa.iscaja.me:25461/KHurtuAt4c/912380638349/27147?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",SkyShowtime 1

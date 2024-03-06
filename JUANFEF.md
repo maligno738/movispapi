@@ -121,6 +121,19 @@ http://59297801550595410.ofip231209.xyz:80/play/NQ5RWYTKKV/ef@VmCDNEU/595410.ts
 http://812439342386595410.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/595410.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ FHD
+http://812439342386646233.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/646233.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ HD
+http://812439342386646234.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/646234.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ SD
+http://812439342386646235.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/646235.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ 2 FHD
+http://812439342386653199.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/653199.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ 2 SD
+http://812439342386653200.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/653200.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   ErReye+",ES: M+ PLUS+ 2 HD
+http://812439342386654580.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/654580.ts
+
 
 
 

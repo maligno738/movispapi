@@ -6,9 +6,7 @@
 "image":"https://i.ibb.co/4ZTh0MY/Sin-t-tulo-1.png",
 "groups": [
 
-{"name": "LO ÚLTIMO EN ESTRENOS",
-"image":"https://i.ibb.co/4ZTh0MY/Sin-t-tulo-1.png",
-"stations": [
+
 
 {"name": "60 minutos (2024)",
 "image":"https://image.tmdb.org/t/p/w600_and_h900_face/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",

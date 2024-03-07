@@ -1,6 +1,6 @@
 {"name": "ESTRENOS HD",
 "author": "JOSE PIMBA",
-"url":"https://bit.ly/474Dsog",
+"url":"https://bit.ly/micine22024",
 "author": "JOSE PIMBA",
 "telegram": "josepimbatv",
 "image":"https://i.ibb.co/4ZTh0MY/Sin-t-tulo-1.png",

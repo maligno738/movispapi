@@ -1,1 +1,75 @@
 
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV INFO" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbuwQ-YsH2JmM15PM5Cxk7qbgO-2KLRcViEqvm1PDdbPQ.png" group-title="FEF TV",ES: FEF TV INFO
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 1
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 2" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 2
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 3" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 3
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 4" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 4
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 5" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 5
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 6" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 6
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 7" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 7
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 8" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSaZ9rdPLKAAerswq9YZOuZfMHJnyawZ3k-veiQaQvPBOQ.png" group-title="FEF TV",ES: FEF TV 8
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 9" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbl6papci7rCtzInIMWk9YzImg_Yu6HpGE9EwdTmQCvMw.png" group-title="FEF TV",ES: FEF TV 9
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 10" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSZQD47prif7fzNKOU74lUe7pX2KBXDLioLIrm_NFp6Q1g.png" group-title="FEF TV",ES: FEF TV 10
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10363
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 11" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbvgmY_9Ck3HtKZWXO8vSL1XpD8jR-ZghdKxuWEmi6I2g.png" group-title="FEF TV",ES: FEF TV 11
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 12" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 12
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10365
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 13" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSaVwReFIJkXmHoAlvgR5k-jaNs4XxLSwpbhAfpu-Q8oVQ.png" group-title="FEF TV",ES: FEF TV 13
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 14" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSZZrS8-V8TVeps0r-rAhX7j0gTrlkTeN1bzEz6lJHU2-g.png" group-title="FEF TV",ES: FEF TV 14
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10367
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 15" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbpp6E0jpMDNLlmviUP78BdG8sivzMQKB_ZoZE5QWHPNQ.png" group-title="FEF TV",ES: FEF TV 15
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/10368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 16" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 16
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 17" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 17
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 18" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 18
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 19" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 19
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 20" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 20
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/429
+#EXTINF:-1 tvg-id="FEF TV 1 Grupo 2" tvg-name="2ª RFEF TV (EVENTO 1)" tvg-logo="http://142.132.218.222:8086/images/295bc5e34c353ecb26f7316c4e490266.png" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 1)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2ª RFEF TV (EVENTO 2)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 2)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 3)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 3)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º REFEF TV (EVENTO 4)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º REFEF TV (EVENTO 4)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 5)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 5)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 6)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 6)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 7)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 7)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 8)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 8)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 9)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 9)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 10)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 10)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 11)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 11)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 12)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 12)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 13)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 13)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 14)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 14)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2º RFEF TV (EVENTO 15)" tvg-logo="" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 15)
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/37133

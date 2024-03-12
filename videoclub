@@ -1,12 +1,456 @@
 
-{"name": "ESTRENOS ERPAPI",
+{"name": "Sagas Er Papi",
 "author": "ER PAPI",
-"url":"https://bit.ly/micine22024",
+"url":"https://www.dl.dropboxusercontent.com/s/2rvpme0q6yr0eo8/Genero-Peliculas.txt",
 "author": "ER PAPI",
-"telegram": "josepimbatv",
-"image":"https://i.ibb.co/4ZTh0MY/Sin-t-tulo-1.png",
 "groups": [
 
+ 
+
+
+{"name": "Sagas",
+"image": "https://s3.amazonaws.com/bit-photos/large/9822700.jpeg",
+"groups": [
+
+{"name": "Saga Torrente",
+"image": "https://www.dl.dropboxusercontent.com/s/bwcra7q8nck92md/sagatorrente.jpg",
+"stations": [
+ 
+{"name": "Torrente 1: El brazo tonto de la ley",
+"image": "https://www.dl.dropboxusercontent.com/s/4rwtw7lbpupwpuk/pelicula-torrente1.jpg",
+"url": "https://uqload.com/embed-0quhk1mcbiwl.html"},
+
+{"name": "Torrente 2: Misión en Marbella",
+"image": "https://www.dl.dropboxusercontent.com/s/dq8bkddqbh08btv/pelicula-torrente2.jpg",
+"url": "https://uqload.com/embed-8ohvei9f5y37.html"},
+
+{"name": "Torrente 3: El protector",
+"image": "https://www.dl.dropboxusercontent.com/s/g2y2azbxmi698gq/pelicula-torrente3.jpg",
+"url": "https://uqload.com/embed-ahlaz4adw0ii.html"},
+
+{"name": "Torrente 4: Lethal crisis",
+"image": "https://www.dl.dropboxusercontent.com/s/hvd0iaawdkw4x4b/pelicula-torrente4.jpg",
+"url": "https://uqload.com/embed-hqhtb64e2vxm.html"},
+
+{"name": "Torrente 5: Operación Eurovegas",
+"image": "https://www.dl.dropboxusercontent.com/s/v2td3vmla19v21h/pelicula-torrente5.jpg",
+"url": "https://pelisplay.io/play?id=NzgxMTE=&option=castell"}]},
+
+{"name": "Trilogía Cincuenta Sombras",
+"image": "https://www.dl.dropboxusercontent.com/s/ylvytr6vmsx003t/pelicula-trilogiacincuentasombras.jpg",
+"stations": [
+
+{"name": "Cincuenta sombras de Grey",
+"image": "https://www.dl.dropboxusercontent.com/s/ke8l0z01sytwh8h/pelicula-cincuentasombrasgray.jpg",
+"url": "https://uqload.com/embed-0eeosnxonrmo.html"},
+
+{"name": "Cincuenta sombras más oscuras",
+"image": "https://www.dl.dropboxusercontent.com/s/jxtt4nzw2m838p4/pelicula-cincuentasombrasmasoscuras.jpg",
+"url": "https://uqload.com/embed-dmdslkl4dhu6.html"},
+
+{"name": "Cincuenta sombras liberadas",
+"image": "https://www.dl.dropboxusercontent.com/s/jg1hlv6ewhzv4iy/pelicula-cincuentasombrasliberadas.jpg",
+"url": "https://pelisplay.io/play?id=Mjc4MDU=&option=latin"}]},
+
+{"name": "Saga Scary Movie",
+"image": "https://www.dl.dropboxusercontent.com/s/v9m5o9l8frnt51t/sagascarymovie.jpg",
+"stations": [
+
+{"name": "Scary Movie 1",
+"image": "https://www.dl.dropboxusercontent.com/s/u1hdqtdii8mglj5/pelicula-scarymovie1.jpg",
+"url": "https://uqload.com/embed-9d2oao4rct9p.html"},
+
+{"name": "Scary Movie 2",
+"image": "https://www.dl.dropboxusercontent.com/s/s6oimeyjig4ei82/pelicula-scarymovie2.jpg",
+"url": "https://uqload.com/embed-vjsc2anlah0l.html"},
+
+{"name": "Scary Movie 3",
+"image": "https://www.dl.dropboxusercontent.com/s/kgi5oldevz9kcw4/pelicula-scarymovie3.jpg",
+"url": "https://uqload.com/embed-ab7ik9fpf0wg.html"},
+
+{"name": "Scary Movie 4",
+"image": "https://www.dl.dropboxusercontent.com/s/u56wgjcg1cjpdr9/pelicula-scarymovie4.jpg",
+"url": "https://uqload.com/embed-k0e2i2h9c9b8.html"},
+
+{"name": "Scary Movie 5",
+"image": "https://www.dl.dropboxusercontent.com/s/buynuyb4xunkbn8/pelicula-scarymovie5.jpg",
+"url": "https://uqload.com/embed-36perbxwfzf1.html"}]},
+ 
+{"name": "Star Wars",
+"image": "https://i.ibb.co/xC2zJTm/505440-star-wars-nueva-edicion-limitada-peliculas.jpg",
+"stations": [
+ 
+{"name": "Star Wars: Episodio 1 - La amenaza fantasma",
+"image": "https://www.dl.dropboxusercontent.com/s/hl9bsw97vfbzryd/starwars1.jpg",
+"url": "https://pelisplay.io/play?id=MjYwMjc=&option=latin"},
+ 
+{"name": "Star Wars: Episodio 2 - El ataque de los clones",
+"image": "https://www.dl.dropboxusercontent.com/s/cz5243kt6kmpnft/starwars2.jpg",
+"url": "https://pelisplay.io/play?id=MTYyNzc=&option=latin"},
+ 
+{"name": "Star Wars: Episodio 3 - La venganza de los Sith",
+"image": "https://www.dl.dropboxusercontent.com/s/bp4boa013a8ofgl/starwars3.jpg",
+"url": "https://uqload.com/embed-7bro302b9e21.html"},
+ 
+{"name": "Han Solo: Una historia de Star Wars",
+"image": "https://www.dl.dropboxusercontent.com/s/x59m02zmst342h5/hansolo.jpg",
+"url": "https://uqload.com/embed-mc3w3l9ruwi1.html"},
+ 
+{"name": "Rogue One: Una historia de Star Wars",
+"image": "https://www.dl.dropboxusercontent.com/s/xted3gov4fgd5rd/rogueone.jpg",
+"url": "https://uqload.com/embed-8duke0655f29.html"},
+ 
+{"name": "Star Wars: Episodio 4 - Una nueva esperanza",
+"image": "https://www.dl.dropboxusercontent.com/s/hq9x7bzxybq832a/starwars4.jpg",
+"url": "https://uqload.com/embed-ex4maofxnk47.html"},
+ 
+{"name": "Star Wars: Episodio 5 - El Imperio contraataca",
+"image": "https://www.dl.dropboxusercontent.com/s/uu9sb7lrnoi0bvk/starwars5.jpg",
+"url": "https://upstream.to/embed-e21b2ot6in3r.html"},
+ 
+{"name": "Star Wars: Episodio 6 - El retorno del Jedi",
+"image": "https://www.dl.dropboxusercontent.com/s/aryucbx93f351pi/starwars6.jpg",
+"url": "https://pelisplay.io/play?id=MjU3Mjc=&option=latin"},
+ 
+{"name": "Star Wars: Episodio 7 - El despertar de la Fuerza",
+"image": "https://www.dl.dropboxusercontent.com/s/vzpenqdki5ovebh/starwars7.jpg",
+"url": "https://uqload.com/embed-n5o21qe19p6d.html"},
+ 
+{"name": "Star Wars: Episodio 8 - Los Últimos Jedi",
+"image": "https://www.dl.dropboxusercontent.com/s/0xxz1b9u1xlmozy/starwars8.jpg",
+"url": "https://pelisplay.io/play?id=MjczOTU=&option=latin"},
+ 
+{"name": "Star Wars: Episodio 9 - El ascenso de Skywalker",
+"image": "https://www.dl.dropboxusercontent.com/s/8ufzy46p15p8x1v/starwars9.jpg",
+"url": "https://uqload.com/embed-suho2vl8pjze.html "}]},
+ 
+{"name": "Toy Story",
+"image": "https://lamanodelextranjero.files.wordpress.com/2019/07/cartel-original-del-primer-toy-story.jpg",
+"stations": [
+ 
+{"name": "Toy Story 1",
+"image": "https://www.dl.dropboxusercontent.com/s/49v6xq6k2hq40ux/toystory1.jpg",
+"url": "https://upstream.to/embed-96x53mcsrwn8.html"},
+ 
+{"name": "Toy Story 2",
+"image": "https://www.dl.dropboxusercontent.com/s/4ayj1me6v8614hz/toystory2.jpg",
+"url": "https://pelisplay.io/play?id=MjI3Mjg=&option=latin"},
+ 
+{"name": "Toy Story 3",
+"image": "https://www.dl.dropboxusercontent.com/s/rqfozty4mytcl15/toystory3.jpg",
+"url": "https://uqload.com/embed-5srcz216bntg.html"},
+ 
+{"name": "Toy Story 4",
+"image": "https://www.dl.dropboxusercontent.com/s/qsfj98688o3lpx8/toystory4.jpg",
+"url": "https://uqload.com/embed-00ltot5wlen4.html"},
+ 
+{"name": "Toy Story: Terror",
+"image": "https://www.dl.dropboxusercontent.com/s/82ipgx0grcb2z7s/toystory5.jpg",
+"url": "https://uqload.com/embed-x4mwsnwv0xul.html"}]},
+ 
+{"name": "Noche en el museo",
+"image": "https://i.ibb.co/wgZKPp6/unnamed.jpg",
+"stations": [
+ 
+{"name": "Noche en el museo 1",
+"image": "https://www.dl.dropboxusercontent.com/s/ueq7xhf4tn7j6j7/nocheenelmuseo1.jpg",
+"url": "https://uqload.com/embed-ddibcezpv99t.html"},
+ 
+{"name": "Noche en el museo 2",
+"image": "https://www.dl.dropboxusercontent.com/s/pii17ym6ph052a4/nocheenelmuseo2.jpg",
+"url": "https://uqload.com/embed-07miqj3vaq37.html"},
+ 
+{"name": "Noche en el museo 3",
+"image": "https://www.dl.dropboxusercontent.com/s/1tg3i625i966vlp/nocheenelmuseo3.jpg",
+"url": "https://pelisplay.io/play?id=MjYyODk=&option=latin"}]},
+ 
+{"name": "Trilogía El planeta de los Simios",
+"image": "https://images-na.ssl-images-amazon.com/images/I/71Y191BPhSL._SL1280_.jpg",
+"stations": [
+ 
+{"name": "El origen del planeta de los simios",
+"image": "https://www.dl.dropboxusercontent.com/s/i5fx69fknblv6xw/planetasimios1.jpg",
+"url": "https://uqload.com/embed-a9n5x4nw2zd8.html"},
+ 
+{"name": "El amanecer del planeta de los simios",
+"image": "https://www.dl.dropboxusercontent.com/s/yiwwg6rp1vaauxg/planetasimios2.jpg",
+"url": "https://pelisplay.io/play?id=NTYzNDI=&option=latin"},
+ 
+{"name": "Guerra del planeta de los simios",
+"image": "https://www.dl.dropboxusercontent.com/s/w6la9im49pxwfgg/planetasimios3.jpg",
+"url": "https://uqload.com/embed-6kuoigimdav9.html"}]},
+ 
+ 
+{"name": "Jurassic Park",
+"image": "https://images-na.ssl-images-amazon.com/images/I/816wlBnZx2L._SL1500_.jpg",
+"stations": [
+ 
+{"name": "Jurassic Park 1",
+"image": "https://www.dl.dropboxusercontent.com/s/8d855egoyvwtdqx/jurassic1.jpg",
+"url": "https://pelisplay.io/play?id=MjU4ODE=&option=latin"},
+ 
+{"name": "Jurassic Park 2",
+"image": "https://www.dl.dropboxusercontent.com/s/4rjhnyrjbhz49im/jurassic2.jpg",
+"url": "https://upstream.to/embed-35efo4ri2s4g.html"},
+ 
+{"name": "Jurassic World",
+"image": "https://www.dl.dropboxusercontent.com/s/5drv7n52jxlmbi9/jurassicw1.jpg",
+"url": "https://uqload.com/embed-lbpa1d8px4ms.html"},
+ 
+{"name": "Jurassic World 2",
+"image": "https://www.dl.dropboxusercontent.com/s/ndwb1tckswi1frb/jurassicw2.jpg",
+"url": "https://uqload.com/embed-ctop8fdqk6yc.html"},
+
+{"name": "Jurassic World: Dominion",
+"image": "https://www.dl.dropboxusercontent.com/s/twydhnua6ky8b3z/jurassicworlddominion.jpg",
+"url": "https://uqload.com/embed-sks5itbjwbkc.html"}]},
+ 
+{"name": "Crepúsculo",
+"image": "https://images-na.ssl-images-amazon.com/images/I/51kJmGzFWQL._SY445_.jpg",
+"stations": [
+ 
+{"name": "Crepúsculo 1",
+"image": "https://www.dl.dropboxusercontent.com/s/vqiu7a497dcjf22/crepusculo1.jpg",
+"url": "https://uqload.com/embed-5nzzd60fp9uw.html"},
+ 
+{"name": "Crepúsculo 2: Luna nueva",
+"image": "https://www.dl.dropboxusercontent.com/s/z32ylz3pdat5g1q/crepusculo2.jpg",
+"url": "https://pelisplay.io/play?id=MjgyNjc=&option=latin"},
+ 
+{"name": "Crepúsculo 3: Eclipse",
+"image": "https://www.dl.dropboxusercontent.com/s/hu7bxb7mv6cu46z/crepusculo3.jpg",
+"url": "https://pelisplay.io/play?id=MjgyODc=&option=latin"},
+ 
+{"name": "Crepúsculo 4: Amanecer - Parte 2",
+"image": "https://www.dl.dropboxusercontent.com/s/l57vuqsc28cpv8i/crepusculo4-2.jpg",
+"url": "https://uqload.com/embed-lx2eoctamiu8.html"}]},
+ 
+{"name": "Piratas del caribe",
+"image": "https://i.blogs.es/13b8c5/piratascaribe/1366_2000.jpg",
+"stations": [
+ 
+{"name": "Piratas del caribe 1: La maldición del Perla Negra",
+"image": "https://www.dl.dropboxusercontent.com/s/cfbm8cb75i9sad2/piratas1.jpg",
+"url": "https://pelisplay.io/play?id=MjYxOTA=&option=latin"},
+ 
+{"name": "Piratas del caribe 2: El cofre de la muerte",
+"image": "https://www.dl.dropboxusercontent.com/s/sxpghl2i1gieonk/piratas2.jpg",
+"url": "https://pelisplay.io/play?id=MjgwOTI=&option=latin"},
+ 
+{"name": "Piratas del caribe 3: En el fin del mundo",
+"image": "https://www.dl.dropboxusercontent.com/s/toq4hge8mb70vtb/piratas3.jpg",
+"url": "https://pelisplay.io/play?id=MTk0MzA=&option=latin"},
+ 
+{"name": "Piratas del caribe 4: Navegando aguas misteriosas",
+"image": "https://www.dl.dropboxusercontent.com/s/bjw7g5fdvk0cmpa/piratas4.jpg",
+"url": "https://pelisplay.io/play?id=Mjg0MDU=&option=latin "},
+ 
+{"name": "Piratas del caribe 5: La venganza de Salazar",
+"image": "https://www.dl.dropboxusercontent.com/s/4252h5arfgcj93v/piratas5.jpg",
+"url": "https://pelisplay.io/play?id=MjczNDY=&option=latin"}]},
+ 
+{"name": "Fast & Furious",
+"image": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/148310-tv-feature-what-order-should-you-watch-the-fast-and-furious-films-in-image1-rzgajwfo2x.jpg",
+"stations": [
+ 
+{"name": "FAST & FURIOUS 1",
+"image": "https://www.dl.dropboxusercontent.com/s/uxo6mienb8jaqd8/fastfurious1.jpg",
+"url": "https://uqload.co/embed-6s7ajwwlt80f.html"},
+ 
+{"name": "FAST & FURIOUS 2",
+"image": "https://www.dl.dropboxusercontent.com/s/t7silzgwmwhgqkg/fastfurious2.jpg",
+"url": "https://upstream.to/embed-l975i0d6c8y8.html"},
+ 
+{"name": "FAST & FURIOUS 3 - Tokio Race",
+"image": "https://www.dl.dropboxusercontent.com/s/yvvtsm60tyuzaz9/fastfurious3.jpg",
+"url": "https://pelisplay.io/play?id=MjgxMDM=&option=latin"},
+ 
+{"name": "FAST & FURIOUS 4",
+"image": "https://www.dl.dropboxusercontent.com/s/tulue9v2s1grc0l/fastfurious4.jpg",
+"url": "https://pelisplay.io/play?id=MjgyNjY=&option=latin"},
+ 
+{"name": "FAST & FURIOUS 5 - 5in Control",
+"image": "https://www.dl.dropboxusercontent.com/s/rtb8mno8tcu48b4/fastfurious5.jpg",
+"url": "https://pelisplay.io/play?id=Mjg0MjE=&option=latin"},
+ 
+{"name": "FAST & FURIOUS 6",
+"image": "https://www.dl.dropboxusercontent.com/s/hxkbgypipoh20tv/fastfurious6.jpg",
+"url": "https://uqload.com/embed-srwhnc3t0780.html"},
+ 
+{"name": "FAST & FURIOUS 7",
+"image": "https://www.dl.dropboxusercontent.com/s/1luz5005ycuggnp/fastfurious7.jpg",
+"url": "https://uqload.com/embed-80080aj2krva.html"},
+ 
+{"name": "FAST & FURIOUS 8",
+"image": "https://www.dl.dropboxusercontent.com/s/m3rm18udt6efbsz/fastfurious8.jpg",
+"url": "https://pelisplay.io/play?id=MjczNTk=&option=latin"},
+ 
+{"name": "FAST & FURIOUS HOBBS & SHAW",
+"image": "https://entrepeliculasyseries.io/Archivos/2019/07/rapidos-y-furiosos-hobbs-shaw.jpg",
+"url": "https://uqload.com/embed-zqwtuj8k4tgk.html"},
+
+{"name": "FAST & FURIOUS 9",
+"image": "https://www.dl.dropboxusercontent.com/s/kkhg8ygdmnkb9vn/pelicula-fastfurious9.jpg",
+"url": "https://uqload.com/embed-91rg4av58pk0.html"},
+
+{"name": "FAST & FURIOUS X",
+"image": "https://i.ibb.co/vsJD5zB/Fast-Furious-X-556821969-large.jpg",
+"url": "https://uqload.co/embed-1p45j11kfd28.html"}]},
+ 
+{"name": "Harry Potter",
+"image": "https://w0.peakpx.com/wallpaper/290/679/HD-wallpaper-harry-potter-harry-potter-and-the-chamber-of-secrets-hogwarts-castle.jpg",
+"stations": [
+ 
+{"name": "Harry Potter y la piedra filosofal",
+"image": "https://www.dl.dropboxusercontent.com/s/tzvx86czt2d8epi/harrypotter1.jpg",
+"url": "https://uqload.co/embed-l9cnukp7tjib.html"},
+ 
+{"name": "Harry Potter y la cámara secreta",
+"image": "https://www.dl.dropboxusercontent.com/s/5r84u9a3wtctmf9/harrypotter2.jpg",
+"url": "https://uqload.com/embed-6trxgb0qzr14.html"},
+ 
+{"name": "Harry Potter y el prisionero de Azkaban",
+"image": "https://www.dl.dropboxusercontent.com/s/qgofnuz52ne9676/harrypotter3.jpg",
+"url": "https://upstream.to/embed-g1agv1ic11by.html"},
+ 
+{"name": "Harry Potter y el cáliz de fuego",
+"image": "https://www.dl.dropboxusercontent.com/s/gehfpcluu6fnakr/harrypotter4.jpg",
+"url": "https://pelisplay.io/play?id=MjgwMzg=&option=latin"},
+ 
+{"name": "Harry Potter y la orden del Fénix",
+"image": "https://www.dl.dropboxusercontent.com/s/jv69yoy1r1x9nwo/harrypotter5.jpg",
+"url": "https://pelisplay.io/play?id=MjgxNDQ=&option=latin"},
+ 
+{"name": "Harry Potter y el misterio del príncipe",
+"image": "https://www.dl.dropboxusercontent.com/s/q4nyjsram6zjtbb/harrypotter6.jpg",
+"url": "https://pelisplay.io/play?id=MjgyNjI=&option=latin"},
+ 
+{"name": "Harry Potter y las reliquias de la muerte - Parte 1",
+"image": "https://www.dl.dropboxusercontent.com/s/yjinpwqk3p4q79p/harrypotter7.jpg",
+"url": "https://pelisplay.io/play?id=MjgzMjE=&option=latin"},
+ 
+{"name": "Harry Potter y las reliquias de la muerte - Parte 2",
+"image": "https://www.dl.dropboxusercontent.com/s/pm05xzb25hgssqo/harrypotter8.jpg",
+"url": "https://uqload.com/embed-ti3ac688k1zm.html"}
+ 
+ 
+]},
+ 
+{"name": "Rocky & Creed",
+"image": "https://i.blogs.es/5cffd0/creed-poster/450_1000.jpg",
+"stations": [
+ 
+{"name": "Rocky 1",
+"image": "https://www.dl.dropboxusercontent.com/s/0jy74xq3pexggy1/rocky3.jpg",
+"url": "https://pelisplay.io/play?id=MTEyNDQ=&option=latin"},
+ 
+{"name": "Rocky 2",
+"image": "https://www.dl.dropboxusercontent.com/s/qcq6ddyzai1jcl2/rocky2.jpg",
+"url": "https://uqload.com/embed-21tgnhiigxe7.html"},
+ 
+{"name": "Rocky 3",
+"image": "https://www.dl.dropboxusercontent.com/s/m44x0mbxxynaswo/rocky1.jpg",
+"url": "https://uqload.com/embed-ef8cdeft0p1w.html"},
+ 
+{"name": "Rocky 4",
+"image": "https://www.dl.dropboxusercontent.com/s/07vosxdk8r3uzx6/rocky4.jpg",
+"url": "https://uqload.com/embed-x9izu0buksze.html"},
+ 
+{"name": "Rocky 5",
+"image": "https://www.dl.dropboxusercontent.com/s/yhntrq0qgt4ixl6/rocky5.jpg",
+"url": "https://uqload.com/embed-k6ltmntv1sjq.html"},
+ 
+{"name": "Rocky Balboa",
+"image": "https://www.dl.dropboxusercontent.com/s/nacfyrkr5h7jm3l/rockybalboa.jpg",
+"url": "https://pelisplay.io/play?id=MjgxMDE=&option=latin"},
+ 
+{"name": "Creed: La leyenda de Rocky",
+"image": "https://www.dl.dropboxusercontent.com/s/5x2ke48jqd50b13/creed1.jpg",
+"url": "https://uqload.com/embed-dnvkjxl4tx3u.html"},
+ 
+{"name": "Creed 2: Defendiendo el legado",
+"image": "https://www.dl.dropboxusercontent.com/s/pypd2ku1w7tvq53/creed2.jpg",
+"url": "https://uqload.co/embed-q6q1zy741wzp.html"},
+
+{"name": "Creed III",
+"image": "https://i.ibb.co/ZMyjKL2/Creed-III-358416025-large.jpg",
+"url": "https://pelisplay.io/play?id=MTY4Mzg5&option=latin"}]},
+ 
+{"name": "Ice Age",
+"image": "https://i.pinimg.com/originals/37/9e/d4/379ed40e5328888ddb256ac6c49def19.jpg",
+"stations": [
+ 
+{"name": "Ice Age 1",
+"image": "https://www.dl.dropboxusercontent.com/s/hbntyoki2h37d4u/iceage1.jpg",
+"url": "https://pelisplay.io/play?id=MTU0NDA=&option=latin"},
+ 
+{"name": "Ice Age 2",
+"image": "https://www.dl.dropboxusercontent.com/s/rjdn8jggdhq5g40/iceage2.jpg",
+"url": "https://pelisplay.io/play?id=MjgxMDA=&option=latin"},
+ 
+{"name": "Ice Age 4",
+"image": "https://www.dl.dropboxusercontent.com/s/igjtkk0ikqoxxy2/iceage4.jpg",
+"url": "https://pelisplay.io/play?id=Mjg1MTU=&option=latin"},
+ 
+{"name": "Ice Age 5: Choque de mundos",
+"image": "https://www.dl.dropboxusercontent.com/s/vfapek7lv4g3f51/iceage5.jpg",
+"url": "https://pelisplay.io/play?id=MjY5NzQ=&option=latin"},
+
+{"name": "Ice Age: Las aventuras de Buck",
+"image": "https://www.dl.dropboxusercontent.com/s/t2r5o7ar2g0o4ca/pelicula-iceagebuck.jpg",
+"url": "https://pelisplay.io/play?id=MTM0OTQx&option=castell"}]},
+ 
+{"name": "Gru mi villano favorito",
+"image": "https://i.pinimg.com/736x/c9/a6/c6/c9a6c6037e453f338a460ce86c708e04.jpg",
+"stations": [
+ 
+{"name": "Gru: Mi villano favorito 1",
+"image": "https://www.dl.dropboxusercontent.com/s/j7i5idiebnzfhc9/gru1.jpg",
+"url": "https://uqload.com/embed-f6r3yohm0zvf.html"},
+ 
+{"name": "Gru: Mi villano favorito 2",
+"image": "https://www.dl.dropboxusercontent.com/s/zhml80ip1rq907g/gru2.jpg",
+"url": "https://uqload.com/embed-q3potcj62fcu.html"},
+ 
+{"name": "Los Minions",
+"image": "https://www.dl.dropboxusercontent.com/s/xomkbg9897orjlj/minions.jpg",
+"url": "https://uqload.com/embed-8aoms76217iv.html"},
+
+{"name": "Los Minions: El origen de Gru",
+"image": "https://www.dl.dropboxusercontent.com/s/5csjip5l4d7l46o/minions22.jpg",
+"url": "https://uqload.com/embed-64dzwp2bzl2m.html"}]},
+ 
+{"name": "Jumanji",
+"image": "https://image.tmdb.org/t/p/w500/6sjMsBcIuqU44GpG5tL33KUFOQR.jpg",
+"stations": [
+
+{"name": "Jumanji 1",
+"image": "https://pics.filmaffinity.com/Jumanji-685043467-large.jpg",
+"url": "https://pelisplay.io/play?id=MjU5Mjc=&option=latin"},
+ 
+{"name": "Jumanji 2: En la selva",
+"image": "https://www.dl.dropboxusercontent.com/s/2oo8kz7sfxu5ziz/jumanji2.jpg",
+"url": "https://pelisplay.io/play?id=MjczNDk=&option=latin"},
+ 
+{"name": "Jumanji: Siguiente Nivel",
+"image": "https://www.dl.dropboxusercontent.com/s/03vcn69mq4k5ebk/jumanjinextlevel.jpg",
+"url": "https://uqload.com/embed-06qp1v6mnsb6.html"}]},
+ 
+{"name": "Bad Boys",
+"image": "https://plexcollectionposters.com/images/2018/05/08/Bad-Boys.jpg",
+"stations": [
+ 
+{"name": "Bad Boys 1 (Dos policías rebeldes)",
+"image": "https://www.dl.dropboxusercontent.com/s/qjjevwquafykl9t/badboys1.jpg",
+"url": "https://pelisplay.io/play?id=NTE0OTg=&option=latin"},
+ 
+{"name": "Bad Boys 2 (Dos policías rebeldes)",
+"image": "https://www.dl.dropboxusercontent.com/s/nkrccu8kpl48yqq/badboys2.jpg",
+"url": "https://pelisplay.io/play?id=NTE0OTk=&option=latin"},
+
+{"name": "Bad Boys For Life",
+"image": "https://pics.filmaffinity.com/Bad_Boys_for_Life-343590773-large.jpg",
+"url": "https://pelisplay.io/play?id=NTI1MDI=&option=latin"}]}]},
 
 
 {"name": "60 minutos (2024)",

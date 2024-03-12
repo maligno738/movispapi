@@ -590,7 +590,7 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/interracial.m3u8
 
 
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO " SERIE",LOS HOMBRES DE PACO
 https://uqload.com/embed-6ach3t0mayf2.html
 #EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 2
 https://uqload.com/embed-cwqajnu4sr1q.html
@@ -640,3 +640,31 @@ https://uqload.com/aqi628jk9d2h.html
 https://uqload.com/9mhjb4sgsyqj.html
 #EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 8
 https://uqload.co/embed-t4tgjv9axc18.html
+
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 1 - Otro mundo
+https://uqload.com/embed-ayiy7yj2dai7.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 2 - Mi hermana Sara
+https://uqload.com/embed-qhuf1vdnn8t8.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 3 - Los niños perdidos
+https://uqload.com/embed-d8kk0e6xd21p.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 4 - El roce de la piel
+https://uqload.com/embed-g6l4czasl50v.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 6 - Los pájaros
+https://uqload.com/embed-9ww98wvgklp3.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 7 - Un asunto de familia
+https://uqload.com/embed-c8vxdd62wxwh.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 8 - El hijo de nadie
+https://uqload.com/embed-v7jnvksz5bjc.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 9 - Recuerda quién eres
+https://uqload.com/embed-cl6azfk5qwxe.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 10 - La zona de sombra
+https://uqload.com/embed-yi9v5t7v5l3s.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 11 - La soledad de dos
+https://uqload.com/embed-acvqgb33e6ej.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 12 - El discurso
+https://uqload.com/embed-9oicmcwy9y8j.html
+#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 13 - El futuro os pertenece
+https://uqload.com/embed-mctr0o95avpg.html
+
+
+

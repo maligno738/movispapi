@@ -590,53 +590,53 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/interracial.m3u8
 
 
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO
 https://uqload.com/embed-6ach3t0mayf2.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 2
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 2
 https://uqload.com/embed-cwqajnu4sr1q.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 3
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 3
 https://uqload.com/embed-63ijwqdrmvu7.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 4
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 4
 https://uqload.com/embed-1wtym2xxfz6p.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 5
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 5
 https://uqload.com/embed-1yozdpsyt5ge.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 6
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 6
 https://uqload.com/embed-qbc622kjowy9.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 7
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 7
 https://uqload.com/embed-yzb2mw5fc43n.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 8
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 8
 https://uqload.com/embed-p4wb7qnul0vt.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 9
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 9
 https://uqload.com/embed-3zu05toge2sd.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 10
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 10
 https://uqload.com/embed-l7wqp0uaogte.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 11
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 11
 https://uqload.com/embed-8fgtvify5ybv.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 12
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 12
 https://uqload.com/embed-0blbzo9cvuc4.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 13
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 13
 https://uqload.com/embed-k0xne6to4219.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 14 
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 14 
 https://uqload.com/embed-u18w057u1vnv.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 15
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 15
 https://uqload.com/embed-flp5lzopxneh.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="SERIES ",LOS HOMBRES DE PACO 16
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 16
 https://uqload.co/embed-nkvah9mnd00d.html
 
 
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY
 https://uqload.com/embed-phyaa9bkmtjd.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 2
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 2
 https://uqload.com/embed-v78nyduqwt7e.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 3
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 3
 https://uqload.com/embed-xz6ehll26lve.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 4
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 4
 https://uqload.com/embed-knkn9km9f1cd.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 5
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 5
 https://uqload.com/embed-01hq1u5hb6ix.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 6
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 6
 https://uqload.com/aqi628jk9d2h.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 7  
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 7  
 https://uqload.com/9mhjb4sgsyqj.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="SERIES ",CRISTO Y REY 8
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 8
 https://uqload.co/embed-t4tgjv9axc18.html

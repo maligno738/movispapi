@@ -590,7 +590,7 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/interracial.m3u8
 
 
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO " SERIE",LOS HOMBRES DE PACO
+#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO
 https://uqload.com/embed-6ach3t0mayf2.html
 #EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 2
 https://uqload.com/embed-cwqajnu4sr1q.html
@@ -622,6 +622,13 @@ https://uqload.com/embed-u18w057u1vnv.html
 https://uqload.com/embed-flp5lzopxneh.html
 #EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 16
 https://uqload.co/embed-nkvah9mnd00d.html
+
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="LOS HOMBRES DE PACO "CRISTO Y REY ",CRISTO Y REY
+https://uqload.com/embed-phyaa9bkmtjd.html
+#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="LOS HOMBRES DE PACO "CRISTO Y REY ",CRISTO Y REY 2
+https://uqload.com/embed-v78nyduqwt7e.html
+
+
 
 
 #EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY

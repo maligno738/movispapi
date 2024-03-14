@@ -1,7 +1,7 @@
 
 {"name": "Sagas Er Papi",
 "author": "ER PAPI",
-"url":"https://www.dl.dropboxusercontent.com/s/2rvpme0q6yr0eo8/Genero-Peliculas.txt",
+"url":"https://raw.githubusercontent.com/maligno738/movispapi/main/videoclub.txt",
 "author": "ER PAPI",
 "groups": [
 

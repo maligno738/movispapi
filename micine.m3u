@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CARGA MAXIMA" tvg-logo="https://i.ibb.co/YcN98GB/oc-Ko-Ev-CPX809g-Wsy-EXRP2z-TVi-Y5.jpg" group-title="Er Papi",CARGA MAXIMA
 https://cache016.peliscdn.online/newhls/cd82b9172476156e2c22b1d14953216b/EP.0.1.v0.1709440396.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Expreso de medianoche" tvg-logo="https://pics.filmaffinity.com/midnight_express-680004533-large.jpg" group-title="Er Papi",El Expreso de medianoche
+https://upstream.to/7pnxn35lsljz
 #EXTINF:-1 tvg-id="" tvg-name="El Curandero" tvg-logo="https://i.ibb.co/wQgq55s/c-Q5c-BYLKQ2ne-C5oncu-Ntw-Zudmd3.jpg" group-title="Er Papi",El curandero
 https://delivery-node-qqnuhrkg3bhbuzaa.voe-network.net/engine/hls2-c/01/09607/b8b1fef2r6ww_,n,.urlset/index-v1-a1.m3u8?t=gJjKZNwEXEjWMMXKIuGwjwdjjDyby8zLS0I9WHhK9uE&s=1709472271&e=14400&f=48058238&node=delivery-node-egsmj9cgffutunwd.voe-network.net&i=37.134&sp=2500&asn=12479
 #EXTINF:-1 tvg-id="" tvg-name="El Rey Mono" tvg-logo="https://i.ibb.co/84yStBZ/v-J9-MZHG3-XQDus-XLIbh-RAz-Tlc-Z2v.jpg" group-title="Er Papi",El Rey Mono

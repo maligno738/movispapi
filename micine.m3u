@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo la casa blanca" tvg-logo="https://3.bp.blogspot.com/-67YAJad0Weo/UbCdBrjkFEI/AAAAAAAAERE/YKeixzNyXkU/s1600/cartel_Objetivo-la-Casa-Blanca.jpg" group-title="Er Papi",objetivo la casa Blanca
+https://cache002.peliscdn.online/newhls/6721e327b68def73dafaecdf3a452241/EP.0.1.v0.1709270664.720.m3u8    
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington D.C." tvg-logo="https://i.pinimg.com/originals/30/34/db/3034db5829b062b7fddb25001a5fe745.jpg" group-title="Er Papi",Objetivo Washington D.C.
+https://cache008.peliscdn.online/newhls/4f781a57af624f407548c74b672d2530/EP.0.2.v0.1708836675.360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El colecionista de huesos" tvg-logo="https://www.cine-feuilles.ch/storage/app/uploads/public/5a3/cda/162/thumb_15033_360_480_0_0_auto.jpg" group-title="Er Papi",El colecionista de Huesos
+https://pelisplay.info/ver/el-coleccionista-de-huesos
+#EXTINF:-1 tvg-id="" tvg-name="Angeles y Demonios" tvg-logo="https://canalhollywood.es/wp-content/uploads/posters/images/hollywoodes/poster/0000705851.jpg" group-title="Er Papi",Angeles y Demonios
+https://cache002.peliscdn.online/newhls/3cc15fe49827e0a1e99d12f030d1c075/EP.0.1.v0.1708893815.360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://pics.filmaffinity.com/robin_hood-446623790-large.jpg" group-title="Er Papi",Gladiator
+https://cache002.peliscdn.online/newhls/6721e327b68def73dafaecdf3a452241/EP.0.1.v0.1709270664.720.m3u8    
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://pics.filmaffinity.com/gladiator-331143379-large.jpg" group-title="Er Papi",Gladiator
+https://cache005.peliscdn.online/newhls/62dd968f0ba10b9996e1384c5cff4b89/EP.0.1.v0.1709100913.360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Mascara del Zorro" tvg-logo="https://pics.filmaffinity.com/the_mask_of_zorro-692272186-large.jpg" group-title="Er Papi",La Mascara del Zorro
+https://cache018.peliscdn.online/newhls/1be612a0cf3dc244a166f4fbbda7bacf/EP.0.1.v0.1708906826.360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARGA MAXIMA" tvg-logo="https://i.ibb.co/YcN98GB/oc-Ko-Ev-CPX809g-Wsy-EXRP2z-TVi-Y5.jpg" group-title="Er Papi",CARGA MAXIMA
 https://cache016.peliscdn.online/newhls/cd82b9172476156e2c22b1d14953216b/EP.0.1.v0.1709440396.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Expreso de medianoche" tvg-logo="https://pics.filmaffinity.com/midnight_express-680004533-large.jpg" group-title="Er Papi",El Expreso de medianoche

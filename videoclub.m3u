@@ -1,455 +1,199 @@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title="▆ ▇ FEF TV ▇ ▆" tvg-id="fef1", FEF TV 00
+acestream://ee38ea1806129de000bd7925a5d52554d70bb560
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title="▆ ▇ FEF TV ▇ ▆" tvg-id="fef2", FEF TV 000
+acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 01" tvg-logo="https://i.ibb.co/Gsg9rdn/FEF-1-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 01
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43900
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 02" tvg-logo="https://i.ibb.co/Lzf4qRj/FEF-2-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 02
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43901
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 03" tvg-logo="https://i.ibb.co/vhWXMtf/FEF-3-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 03
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43902
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 04" tvg-logo="https://i.ibb.co/9Z6fZ2b/FEF-4-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 04
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43903
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 05" tvg-logo="https://i.ibb.co/0JKxR2X/FEF-5-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 05
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43904
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 06" tvg-logo="https://i.ibb.co/HDjGg1Z/FEF-6-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 06
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43905
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 07" tvg-logo="https://i.ibb.co/q5SMxyh/FEF-7-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 07
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43906
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 08" tvg-logo="https://i.ibb.co/MZFWS0C/FEF-8-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 08
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43907
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 09" tvg-logo="https://i.ibb.co/D51Q9ML/FEF-9-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 09
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43908
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="https://i.ibb.co/0hSb7Px/FEF-10-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 10
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43909
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="https://i.ibb.co/9WyGdrS/FEF-11-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 11
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43910
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="https://i.ibb.co/QYrrH14/FEF-12-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 12
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43911
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="https://i.ibb.co/sJNQrd9/FEF-13-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 13
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43912
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14" tvg-logo="https://i.ibb.co/WFQqvdT/FEF-14-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 14
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43913
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15" tvg-logo="https://i.ibb.co/0M4DfKf/FEF-15-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 15
+http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43914
 
-{"name": "Sagas Er Papi",
-"author": "ER PAPI",
-"url":"https://raw.githubusercontent.com/maligno738/movispapi/main/videoclub.txt",
-"author": "ER PAPI",
-"groups": [
-
- 
 
 
-{"name": "Sagas",
-"image": "https://s3.amazonaws.com/bit-photos/large/9822700.jpeg",
-"groups": [
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080*
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2 1080
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080 IPTV
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 1080
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 7 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-{"name": "Saga Torrente",
-"image": "https://www.dl.dropboxusercontent.com/s/bwcra7q8nck92md/sagatorrente.jpg",
-"stations": [
- 
-{"name": "Torrente 1: El brazo tonto de la ley",
-"image": "https://www.dl.dropboxusercontent.com/s/4rwtw7lbpupwpuk/pelicula-torrente1.jpg",
-"url": "https://uqload.com/embed-0quhk1mcbiwl.html"},
 
-{"name": "Torrente 2: Misión en Marbella",
-"image": "https://www.dl.dropboxusercontent.com/s/dq8bkddqbh08btv/pelicula-torrente2.jpg",
-"url": "https://uqload.com/embed-8ohvei9f5y37.html"},
+#EXTINF:-1 group-title="Golf" tvg-id="M+ Deportes" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a69.png" ,Canal Golf (MX) 720
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080*
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V 1080
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
+acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
-{"name": "Torrente 3: El protector",
-"image": "https://www.dl.dropboxusercontent.com/s/g2y2azbxmi698gq/pelicula-torrente3.jpg",
-"url": "https://uqload.com/embed-ahlaz4adw0ii.html"},
 
-{"name": "Torrente 4: Lethal crisis",
-"image": "https://www.dl.dropboxusercontent.com/s/hvd0iaawdkw4x4b/pelicula-torrente4.jpg",
-"url": "https://uqload.com/embed-hqhtb64e2vxm.html"},
 
-{"name": "Torrente 5: Operación Eurovegas",
-"image": "https://www.dl.dropboxusercontent.com/s/v2td3vmla19v21h/pelicula-torrente5.jpg",
-"url": "https://pelisplay.io/play?id=NzgxMTE=&option=castell"}]},
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio*
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio (A)
+acestream://731428b18eb656121990261c1b072b13f7caef30
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 720*
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/Hk59y0C2/liga2.png" ,M+ LaLigaTV 2 1080
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/Hk59y0C2/liga2.png" ,M+ LaLigaTV 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/pX3BrG3r/liga3.png" ,M+ LaLigaTV 3 1080p
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/yYDPV4Q2/liga4.png" ,M+ LaLigaTV 4 1080
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://i.postimg.cc/qq5x8jRm/liga5.png" ,M+ LaLigaTV 5 1080
+acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.postimg.cc/rmqjcD39/liga6.png" ,M+ LaLigaTV 6 1080
+acestream://c896d37778f9e43549a788fc22206a655895b51b
 
-{"name": "Trilogía Cincuenta Sombras",
-"image": "https://www.dl.dropboxusercontent.com/s/ylvytr6vmsx003t/pelicula-trilogiacincuentasombras.jpg",
-"stations": [
 
-{"name": "Cincuenta sombras de Grey",
-"image": "https://www.dl.dropboxusercontent.com/s/ke8l0z01sytwh8h/pelicula-cincuentasombrasgray.jpg",
-"url": "https://uqload.com/embed-0eeosnxonrmo.html"},
 
-{"name": "Cincuenta sombras más oscuras",
-"image": "https://www.dl.dropboxusercontent.com/s/jxtt4nzw2m838p4/pelicula-cincuentasombrasmasoscuras.jpg",
-"url": "https://uqload.com/embed-dmdslkl4dhu6.html"},
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 720
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.postimg.cc/Dzk5jjcH/hyper2.png" ,M+ LaLiga Hypermotion 2 1080
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.postimg.cc/Dzk5jjcH/hyper2.png" ,M+ LaLiga Hypermotion 2 720
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080
+acestream://59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://i.postimg.cc/tJdHJSzx/hyper4.png" ,M+ LaLiga Hypermotion 4
+acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://i.postimg.cc/B6K39QLN/hyper5.png" ,M+ LaLiga Hypermotion 5
+acestream://a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga SmartbankTV M6 HD" tvg-logo="https://i.postimg.cc/k5xtZrBx/m6.png" ,M+ LaLiga Hypermotion 6
+acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga SmartbankTV M7 HD" tvg-logo="https://i.postimg.cc/bvXt3YNy/m7.png" ,M+ LaLiga Hypermotion 7
+acestream://446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga SmartbankTV M8 HD" tvg-logo="https://i.postimg.cc/t4n63nbv/m8.png" ,M+ LaLiga Hypermotion 8
+acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
-{"name": "Cincuenta sombras liberadas",
-"image": "https://www.dl.dropboxusercontent.com/s/jg1hlv6ewhzv4iy/pelicula-cincuentasombrasliberadas.jpg",
-"url": "https://pelisplay.io/play?id=Mjc4MDU=&option=latin"}]},
 
-{"name": "Saga Scary Movie",
-"image": "https://www.dl.dropboxusercontent.com/s/v9m5o9l8frnt51t/sagascarymovie.jpg",
-"stations": [
 
-{"name": "Scary Movie 1",
-"image": "https://www.dl.dropboxusercontent.com/s/u1hdqtdii8mglj5/pelicula-scarymovie1.jpg",
-"url": "https://uqload.com/embed-9d2oao4rct9p.html"},
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i Multiaudio
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i 
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i Multiaudio (Solo evento)
+acestream://fb854a0da764db77a4b05fb5bf3e41e6d6650909
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720*
+acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720
+acestream://297b513e2999e829d8bc9bd963428ea3d43362db
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 Multiaudio
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 720*
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080*
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4*
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5
+acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M+ Liga de Campeones 6
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M+ Liga de Campeones 8
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 9
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 10
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 11
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 12
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
-{"name": "Scary Movie 2",
-"image": "https://www.dl.dropboxusercontent.com/s/s6oimeyjig4ei82/pelicula-scarymovie2.jpg",
-"url": "https://uqload.com/embed-vjsc2anlah0l.html"},
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 1080 IPTV (04)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/244112
 
-{"name": "Scary Movie 3",
-"image": "https://www.dl.dropboxusercontent.com/s/kgi5oldevz9kcw4/pelicula-scarymovie3.jpg",
-"url": "https://uqload.com/embed-ab7ik9fpf0wg.html"},
 
-{"name": "Scary Movie 4",
-"image": "https://www.dl.dropboxusercontent.com/s/u56wgjcg1cjpdr9/pelicula-scarymovie4.jpg",
-"url": "https://uqload.com/embed-k0e2i2h9c9b8.html"},
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080 multiaudio
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080 multiaudio*
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080i multiaudio (A)
+acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 1080 multiaudio
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 multiaudio
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3" tvg-logo="https://i.postimg.cc/Nfk0k73z/daznliga3.png" ,DAZN LaLiga 3
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4" tvg-logo="https://i.postimg.cc/bwYwCS8N/daznliga4.png" ,DAZN LaLiga 4
+acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5" tvg-logo="https://i.postimg.cc/9FhM9Nn9/daznliga5.png" ,DAZN LaLiga 5
+acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 
-{"name": "Scary Movie 5",
-"image": "https://www.dl.dropboxusercontent.com/s/buynuyb4xunkbn8/pelicula-scarymovie5.jpg",
-"url": "https://uqload.com/embed-36perbxwfzf1.html"}]},
- 
-{"name": "Star Wars",
-"image": "https://i.ibb.co/xC2zJTm/505440-star-wars-nueva-edicion-limitada-peliculas.jpg",
-"stations": [
- 
-{"name": "Star Wars: Episodio 1 - La amenaza fantasma",
-"image": "https://www.dl.dropboxusercontent.com/s/hl9bsw97vfbzryd/starwars1.jpg",
-"url": "https://pelisplay.io/play?id=MjYwMjc=&option=latin"},
- 
-{"name": "Star Wars: Episodio 2 - El ataque de los clones",
-"image": "https://www.dl.dropboxusercontent.com/s/cz5243kt6kmpnft/starwars2.jpg",
-"url": "https://pelisplay.io/play?id=MTYyNzc=&option=latin"},
- 
-{"name": "Star Wars: Episodio 3 - La venganza de los Sith",
-"image": "https://www.dl.dropboxusercontent.com/s/bp4boa013a8ofgl/starwars3.jpg",
-"url": "https://uqload.com/embed-7bro302b9e21.html"},
- 
-{"name": "Han Solo: Una historia de Star Wars",
-"image": "https://www.dl.dropboxusercontent.com/s/x59m02zmst342h5/hansolo.jpg",
-"url": "https://uqload.com/embed-mc3w3l9ruwi1.html"},
- 
-{"name": "Rogue One: Una historia de Star Wars",
-"image": "https://www.dl.dropboxusercontent.com/s/xted3gov4fgd5rd/rogueone.jpg",
-"url": "https://uqload.com/embed-8duke0655f29.html"},
- 
-{"name": "Star Wars: Episodio 4 - Una nueva esperanza",
-"image": "https://www.dl.dropboxusercontent.com/s/hq9x7bzxybq832a/starwars4.jpg",
-"url": "https://uqload.com/embed-ex4maofxnk47.html"},
- 
-{"name": "Star Wars: Episodio 5 - El Imperio contraataca",
-"image": "https://www.dl.dropboxusercontent.com/s/uu9sb7lrnoi0bvk/starwars5.jpg",
-"url": "https://upstream.to/embed-e21b2ot6in3r.html"},
- 
-{"name": "Star Wars: Episodio 6 - El retorno del Jedi",
-"image": "https://www.dl.dropboxusercontent.com/s/aryucbx93f351pi/starwars6.jpg",
-"url": "https://pelisplay.io/play?id=MjU3Mjc=&option=latin"},
- 
-{"name": "Star Wars: Episodio 7 - El despertar de la Fuerza",
-"image": "https://www.dl.dropboxusercontent.com/s/vzpenqdki5ovebh/starwars7.jpg",
-"url": "https://uqload.com/embed-n5o21qe19p6d.html"},
- 
-{"name": "Star Wars: Episodio 8 - Los Últimos Jedi",
-"image": "https://www.dl.dropboxusercontent.com/s/0xxz1b9u1xlmozy/starwars8.jpg",
-"url": "https://pelisplay.io/play?id=MjczOTU=&option=latin"},
- 
-{"name": "Star Wars: Episodio 9 - El ascenso de Skywalker",
-"image": "https://www.dl.dropboxusercontent.com/s/8ufzy46p15p8x1v/starwars9.jpg",
-"url": "https://uqload.com/embed-suho2vl8pjze.html "}]},
- 
-{"name": "Toy Story",
-"image": "https://lamanodelextranjero.files.wordpress.com/2019/07/cartel-original-del-primer-toy-story.jpg",
-"stations": [
- 
-{"name": "Toy Story 1",
-"image": "https://www.dl.dropboxusercontent.com/s/49v6xq6k2hq40ux/toystory1.jpg",
-"url": "https://upstream.to/embed-96x53mcsrwn8.html"},
- 
-{"name": "Toy Story 2",
-"image": "https://www.dl.dropboxusercontent.com/s/4ayj1me6v8614hz/toystory2.jpg",
-"url": "https://pelisplay.io/play?id=MjI3Mjg=&option=latin"},
- 
-{"name": "Toy Story 3",
-"image": "https://www.dl.dropboxusercontent.com/s/rqfozty4mytcl15/toystory3.jpg",
-"url": "https://uqload.com/embed-5srcz216bntg.html"},
- 
-{"name": "Toy Story 4",
-"image": "https://www.dl.dropboxusercontent.com/s/qsfj98688o3lpx8/toystory4.jpg",
-"url": "https://uqload.com/embed-00ltot5wlen4.html"},
- 
-{"name": "Toy Story: Terror",
-"image": "https://www.dl.dropboxusercontent.com/s/82ipgx0grcb2z7s/toystory5.jpg",
-"url": "https://uqload.com/embed-x4mwsnwv0xul.html"}]},
- 
-{"name": "Noche en el museo",
-"image": "https://i.ibb.co/wgZKPp6/unnamed.jpg",
-"stations": [
- 
-{"name": "Noche en el museo 1",
-"image": "https://www.dl.dropboxusercontent.com/s/ueq7xhf4tn7j6j7/nocheenelmuseo1.jpg",
-"url": "https://uqload.com/embed-ddibcezpv99t.html"},
- 
-{"name": "Noche en el museo 2",
-"image": "https://www.dl.dropboxusercontent.com/s/pii17ym6ph052a4/nocheenelmuseo2.jpg",
-"url": "https://uqload.com/embed-07miqj3vaq37.html"},
- 
-{"name": "Noche en el museo 3",
-"image": "https://www.dl.dropboxusercontent.com/s/1tg3i625i966vlp/nocheenelmuseo3.jpg",
-"url": "https://pelisplay.io/play?id=MjYyODk=&option=latin"}]},
- 
-{"name": "Trilogía El planeta de los Simios",
-"image": "https://images-na.ssl-images-amazon.com/images/I/71Y191BPhSL._SL1280_.jpg",
-"stations": [
- 
-{"name": "El origen del planeta de los simios",
-"image": "https://www.dl.dropboxusercontent.com/s/i5fx69fknblv6xw/planetasimios1.jpg",
-"url": "https://uqload.com/embed-a9n5x4nw2zd8.html"},
- 
-{"name": "El amanecer del planeta de los simios",
-"image": "https://www.dl.dropboxusercontent.com/s/yiwwg6rp1vaauxg/planetasimios2.jpg",
-"url": "https://pelisplay.io/play?id=NTYzNDI=&option=latin"},
- 
-{"name": "Guerra del planeta de los simios",
-"image": "https://www.dl.dropboxusercontent.com/s/w6la9im49pxwfgg/planetasimios3.jpg",
-"url": "https://uqload.com/embed-6kuoigimdav9.html"}]},
- 
- 
-{"name": "Jurassic Park",
-"image": "https://images-na.ssl-images-amazon.com/images/I/816wlBnZx2L._SL1500_.jpg",
-"stations": [
- 
-{"name": "Jurassic Park 1",
-"image": "https://www.dl.dropboxusercontent.com/s/8d855egoyvwtdqx/jurassic1.jpg",
-"url": "https://pelisplay.io/play?id=MjU4ODE=&option=latin"},
- 
-{"name": "Jurassic Park 2",
-"image": "https://www.dl.dropboxusercontent.com/s/4rjhnyrjbhz49im/jurassic2.jpg",
-"url": "https://upstream.to/embed-35efo4ri2s4g.html"},
- 
-{"name": "Jurassic World",
-"image": "https://www.dl.dropboxusercontent.com/s/5drv7n52jxlmbi9/jurassicw1.jpg",
-"url": "https://uqload.com/embed-lbpa1d8px4ms.html"},
- 
-{"name": "Jurassic World 2",
-"image": "https://www.dl.dropboxusercontent.com/s/ndwb1tckswi1frb/jurassicw2.jpg",
-"url": "https://uqload.com/embed-ctop8fdqk6yc.html"},
 
-{"name": "Jurassic World: Dominion",
-"image": "https://www.dl.dropboxusercontent.com/s/twydhnua6ky8b3z/jurassicworlddominion.jpg",
-"url": "https://uqload.com/embed-sks5itbjwbkc.html"}]},
- 
-{"name": "Crepúsculo",
-"image": "https://images-na.ssl-images-amazon.com/images/I/51kJmGzFWQL._SY445_.jpg",
-"stations": [
- 
-{"name": "Crepúsculo 1",
-"image": "https://www.dl.dropboxusercontent.com/s/vqiu7a497dcjf22/crepusculo1.jpg",
-"url": "https://uqload.com/embed-5nzzd60fp9uw.html"},
- 
-{"name": "Crepúsculo 2: Luna nueva",
-"image": "https://www.dl.dropboxusercontent.com/s/z32ylz3pdat5g1q/crepusculo2.jpg",
-"url": "https://pelisplay.io/play?id=MjgyNjc=&option=latin"},
- 
-{"name": "Crepúsculo 3: Eclipse",
-"image": "https://www.dl.dropboxusercontent.com/s/hu7bxb7mv6cu46z/crepusculo3.jpg",
-"url": "https://pelisplay.io/play?id=MjgyODc=&option=latin"},
- 
-{"name": "Crepúsculo 4: Amanecer - Parte 2",
-"image": "https://www.dl.dropboxusercontent.com/s/l57vuqsc28cpv8i/crepusculo4-2.jpg",
-"url": "https://uqload.com/embed-lx2eoctamiu8.html"}]},
- 
-{"name": "Piratas del caribe",
-"image": "https://i.blogs.es/13b8c5/piratascaribe/1366_2000.jpg",
-"stations": [
- 
-{"name": "Piratas del caribe 1: La maldición del Perla Negra",
-"image": "https://www.dl.dropboxusercontent.com/s/cfbm8cb75i9sad2/piratas1.jpg",
-"url": "https://pelisplay.io/play?id=MjYxOTA=&option=latin"},
- 
-{"name": "Piratas del caribe 2: El cofre de la muerte",
-"image": "https://www.dl.dropboxusercontent.com/s/sxpghl2i1gieonk/piratas2.jpg",
-"url": "https://pelisplay.io/play?id=MjgwOTI=&option=latin"},
- 
-{"name": "Piratas del caribe 3: En el fin del mundo",
-"image": "https://www.dl.dropboxusercontent.com/s/toq4hge8mb70vtb/piratas3.jpg",
-"url": "https://pelisplay.io/play?id=MTk0MzA=&option=latin"},
- 
-{"name": "Piratas del caribe 4: Navegando aguas misteriosas",
-"image": "https://www.dl.dropboxusercontent.com/s/bjw7g5fdvk0cmpa/piratas4.jpg",
-"url": "https://pelisplay.io/play?id=Mjg0MDU=&option=latin "},
- 
-{"name": "Piratas del caribe 5: La venganza de Salazar",
-"image": "https://www.dl.dropboxusercontent.com/s/4252h5arfgcj93v/piratas5.jpg",
-"url": "https://pelisplay.io/play?id=MjczNDY=&option=latin"}]},
- 
-{"name": "Fast & Furious",
-"image": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/148310-tv-feature-what-order-should-you-watch-the-fast-and-furious-films-in-image1-rzgajwfo2x.jpg",
-"stations": [
- 
-{"name": "FAST & FURIOUS 1",
-"image": "https://www.dl.dropboxusercontent.com/s/uxo6mienb8jaqd8/fastfurious1.jpg",
-"url": "https://uqload.co/embed-6s7ajwwlt80f.html"},
- 
-{"name": "FAST & FURIOUS 2",
-"image": "https://www.dl.dropboxusercontent.com/s/t7silzgwmwhgqkg/fastfurious2.jpg",
-"url": "https://upstream.to/embed-l975i0d6c8y8.html"},
- 
-{"name": "FAST & FURIOUS 3 - Tokio Race",
-"image": "https://www.dl.dropboxusercontent.com/s/yvvtsm60tyuzaz9/fastfurious3.jpg",
-"url": "https://pelisplay.io/play?id=MjgxMDM=&option=latin"},
- 
-{"name": "FAST & FURIOUS 4",
-"image": "https://www.dl.dropboxusercontent.com/s/tulue9v2s1grc0l/fastfurious4.jpg",
-"url": "https://pelisplay.io/play?id=MjgyNjY=&option=latin"},
- 
-{"name": "FAST & FURIOUS 5 - 5in Control",
-"image": "https://www.dl.dropboxusercontent.com/s/rtb8mno8tcu48b4/fastfurious5.jpg",
-"url": "https://pelisplay.io/play?id=Mjg0MjE=&option=latin"},
- 
-{"name": "FAST & FURIOUS 6",
-"image": "https://www.dl.dropboxusercontent.com/s/hxkbgypipoh20tv/fastfurious6.jpg",
-"url": "https://uqload.com/embed-srwhnc3t0780.html"},
- 
-{"name": "FAST & FURIOUS 7",
-"image": "https://www.dl.dropboxusercontent.com/s/1luz5005ycuggnp/fastfurious7.jpg",
-"url": "https://uqload.com/embed-80080aj2krva.html"},
- 
-{"name": "FAST & FURIOUS 8",
-"image": "https://www.dl.dropboxusercontent.com/s/m3rm18udt6efbsz/fastfurious8.jpg",
-"url": "https://pelisplay.io/play?id=MjczNTk=&option=latin"},
- 
-{"name": "FAST & FURIOUS HOBBS & SHAW",
-"image": "https://entrepeliculasyseries.io/Archivos/2019/07/rapidos-y-furiosos-hobbs-shaw.jpg",
-"url": "https://uqload.com/embed-zqwtuj8k4tgk.html"},
 
-{"name": "FAST & FURIOUS 9",
-"image": "https://www.dl.dropboxusercontent.com/s/kkhg8ygdmnkb9vn/pelicula-fastfurious9.jpg",
-"url": "https://uqload.com/embed-91rg4av58pk0.html"},
 
-{"name": "FAST & FURIOUS X",
-"image": "https://i.ibb.co/vsJD5zB/Fast-Furious-X-556821969-large.jpg",
-"url": "https://uqload.co/embed-1p45j11kfd28.html"}]},
- 
-{"name": "Harry Potter",
-"image": "https://w0.peakpx.com/wallpaper/290/679/HD-wallpaper-harry-potter-harry-potter-and-the-chamber-of-secrets-hogwarts-castle.jpg",
-"stations": [
- 
-{"name": "Harry Potter y la piedra filosofal",
-"image": "https://www.dl.dropboxusercontent.com/s/tzvx86czt2d8epi/harrypotter1.jpg",
-"url": "https://uqload.co/embed-l9cnukp7tjib.html"},
- 
-{"name": "Harry Potter y la cámara secreta",
-"image": "https://www.dl.dropboxusercontent.com/s/5r84u9a3wtctmf9/harrypotter2.jpg",
-"url": "https://uqload.com/embed-6trxgb0qzr14.html"},
- 
-{"name": "Harry Potter y el prisionero de Azkaban",
-"image": "https://www.dl.dropboxusercontent.com/s/qgofnuz52ne9676/harrypotter3.jpg",
-"url": "https://upstream.to/embed-g1agv1ic11by.html"},
- 
-{"name": "Harry Potter y el cáliz de fuego",
-"image": "https://www.dl.dropboxusercontent.com/s/gehfpcluu6fnakr/harrypotter4.jpg",
-"url": "https://pelisplay.io/play?id=MjgwMzg=&option=latin"},
- 
-{"name": "Harry Potter y la orden del Fénix",
-"image": "https://www.dl.dropboxusercontent.com/s/jv69yoy1r1x9nwo/harrypotter5.jpg",
-"url": "https://pelisplay.io/play?id=MjgxNDQ=&option=latin"},
- 
-{"name": "Harry Potter y el misterio del príncipe",
-"image": "https://www.dl.dropboxusercontent.com/s/q4nyjsram6zjtbb/harrypotter6.jpg",
-"url": "https://pelisplay.io/play?id=MjgyNjI=&option=latin"},
- 
-{"name": "Harry Potter y las reliquias de la muerte - Parte 1",
-"image": "https://www.dl.dropboxusercontent.com/s/yjinpwqk3p4q79p/harrypotter7.jpg",
-"url": "https://pelisplay.io/play?id=MjgzMjE=&option=latin"},
- 
-{"name": "Harry Potter y las reliquias de la muerte - Parte 2",
-"image": "https://www.dl.dropboxusercontent.com/s/pm05xzb25hgssqo/harrypotter8.jpg",
-"url": "https://uqload.com/embed-ti3ac688k1zm.html"}
- 
- 
-]},
- 
-{"name": "Rocky & Creed",
-"image": "https://i.blogs.es/5cffd0/creed-poster/450_1000.jpg",
-"stations": [
- 
-{"name": "Rocky 1",
-"image": "https://www.dl.dropboxusercontent.com/s/0jy74xq3pexggy1/rocky3.jpg",
-"url": "https://pelisplay.io/play?id=MTEyNDQ=&option=latin"},
- 
-{"name": "Rocky 2",
-"image": "https://www.dl.dropboxusercontent.com/s/qcq6ddyzai1jcl2/rocky2.jpg",
-"url": "https://uqload.com/embed-21tgnhiigxe7.html"},
- 
-{"name": "Rocky 3",
-"image": "https://www.dl.dropboxusercontent.com/s/m44x0mbxxynaswo/rocky1.jpg",
-"url": "https://uqload.com/embed-ef8cdeft0p1w.html"},
- 
-{"name": "Rocky 4",
-"image": "https://www.dl.dropboxusercontent.com/s/07vosxdk8r3uzx6/rocky4.jpg",
-"url": "https://uqload.com/embed-x9izu0buksze.html"},
- 
-{"name": "Rocky 5",
-"image": "https://www.dl.dropboxusercontent.com/s/yhntrq0qgt4ixl6/rocky5.jpg",
-"url": "https://uqload.com/embed-k6ltmntv1sjq.html"},
- 
-{"name": "Rocky Balboa",
-"image": "https://www.dl.dropboxusercontent.com/s/nacfyrkr5h7jm3l/rockybalboa.jpg",
-"url": "https://pelisplay.io/play?id=MjgxMDE=&option=latin"},
- 
-{"name": "Creed: La leyenda de Rocky",
-"image": "https://www.dl.dropboxusercontent.com/s/5x2ke48jqd50b13/creed1.jpg",
-"url": "https://uqload.com/embed-dnvkjxl4tx3u.html"},
- 
-{"name": "Creed 2: Defendiendo el legado",
-"image": "https://www.dl.dropboxusercontent.com/s/pypd2ku1w7tvq53/creed2.jpg",
-"url": "https://uqload.co/embed-q6q1zy741wzp.html"},
 
-{"name": "Creed III",
-"image": "https://i.ibb.co/ZMyjKL2/Creed-III-358416025-large.jpg",
-"url": "https://pelisplay.io/play?id=MTY4Mzg5&option=latin"}]},
- 
-{"name": "Ice Age",
-"image": "https://i.pinimg.com/originals/37/9e/d4/379ed40e5328888ddb256ac6c49def19.jpg",
-"stations": [
- 
-{"name": "Ice Age 1",
-"image": "https://www.dl.dropboxusercontent.com/s/hbntyoki2h37d4u/iceage1.jpg",
-"url": "https://pelisplay.io/play?id=MTU0NDA=&option=latin"},
- 
-{"name": "Ice Age 2",
-"image": "https://www.dl.dropboxusercontent.com/s/rjdn8jggdhq5g40/iceage2.jpg",
-"url": "https://pelisplay.io/play?id=MjgxMDA=&option=latin"},
- 
-{"name": "Ice Age 4",
-"image": "https://www.dl.dropboxusercontent.com/s/igjtkk0ikqoxxy2/iceage4.jpg",
-"url": "https://pelisplay.io/play?id=Mjg1MTU=&option=latin"},
- 
-{"name": "Ice Age 5: Choque de mundos",
-"image": "https://www.dl.dropboxusercontent.com/s/vfapek7lv4g3f51/iceage5.jpg",
-"url": "https://pelisplay.io/play?id=MjY5NzQ=&option=latin"},
 
-{"name": "Ice Age: Las aventuras de Buck",
-"image": "https://www.dl.dropboxusercontent.com/s/t2r5o7ar2g0o4ca/pelicula-iceagebuck.jpg",
-"url": "https://pelisplay.io/play?id=MTM0OTQx&option=castell"}]},
- 
-{"name": "Gru mi villano favorito",
-"image": "https://i.pinimg.com/736x/c9/a6/c6/c9a6c6037e453f338a460ce86c708e04.jpg",
-"stations": [
- 
-{"name": "Gru: Mi villano favorito 1",
-"image": "https://www.dl.dropboxusercontent.com/s/j7i5idiebnzfhc9/gru1.jpg",
-"url": "https://uqload.com/embed-f6r3yohm0zvf.html"},
- 
-{"name": "Gru: Mi villano favorito 2",
-"image": "https://www.dl.dropboxusercontent.com/s/zhml80ip1rq907g/gru2.jpg",
-"url": "https://uqload.com/embed-q3potcj62fcu.html"},
- 
-{"name": "Los Minions",
-"image": "https://www.dl.dropboxusercontent.com/s/xomkbg9897orjlj/minions.jpg",
-"url": "https://uqload.com/embed-8aoms76217iv.html"},
 
-{"name": "Los Minions: El origen de Gru",
-"image": "https://www.dl.dropboxusercontent.com/s/5csjip5l4d7l46o/minions22.jpg",
-"url": "https://uqload.com/embed-64dzwp2bzl2m.html"}]},
- 
-{"name": "Jumanji",
-"image": "https://image.tmdb.org/t/p/w500/6sjMsBcIuqU44GpG5tL33KUFOQR.jpg",
-"stations": [
 
-{"name": "Jumanji 1",
-"image": "https://pics.filmaffinity.com/Jumanji-685043467-large.jpg",
-"url": "https://pelisplay.io/play?id=MjU5Mjc=&option=latin"},
- 
-{"name": "Jumanji 2: En la selva",
-"image": "https://www.dl.dropboxusercontent.com/s/2oo8kz7sfxu5ziz/jumanji2.jpg",
-"url": "https://pelisplay.io/play?id=MjczNDk=&option=latin"},
- 
-{"name": "Jumanji: Siguiente Nivel",
-"image": "https://www.dl.dropboxusercontent.com/s/03vcn69mq4k5ebk/jumanjinextlevel.jpg",
-"url": "https://uqload.com/embed-06qp1v6mnsb6.html"}]},
- 
-{"name": "Bad Boys",
-"image": "https://plexcollectionposters.com/images/2018/05/08/Bad-Boys.jpg",
-"stations": [
- 
-{"name": "Bad Boys 1 (Dos policías rebeldes)",
-"image": "https://www.dl.dropboxusercontent.com/s/qjjevwquafykl9t/badboys1.jpg",
-"url": "https://pelisplay.io/play?id=NTE0OTg=&option=latin"},
- 
-{"name": "Bad Boys 2 (Dos policías rebeldes)",
-"image": "https://www.dl.dropboxusercontent.com/s/nkrccu8kpl48yqq/badboys2.jpg",
-"url": "https://pelisplay.io/play?id=NTE0OTk=&option=latin"},
 
-{"name": "Bad Boys For Life",
-"image": "https://pics.filmaffinity.com/Bad_Boys_for_Life-343590773-large.jpg",
-"url": "https://pelisplay.io/play?id=NTI1MDI=&option=latin"}]}]},
+
+
+
+
+
+
+
+
+
 
 

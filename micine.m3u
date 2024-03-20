@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="MI MALAGA" tvg-logo="https://www.myprivatetourguide.com/wp-content/uploads/2021/06/88-2-1024x1024.jpg" group-title="Er Papi",MI MALAGA
-https://asnwish.com/zf0w88y21ohp 
+https://asnwish.com/zf0w88y21ohp  
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise" tvg-logo="https://pics.filmaffinity.com/jungle_cruise-756798392-large.jpg" group-title="Er Papi",Jungle Cruise
+https://cache018.peliscdn.online/newhls/f06b5158d532014430e432685f9c157d/EP.0.2.v0.1708592515.1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo la casa blanca" tvg-logo="https://3.bp.blogspot.com/-67YAJad0Weo/UbCdBrjkFEI/AAAAAAAAERE/YKeixzNyXkU/s1600/cartel_Objetivo-la-Casa-Blanca.jpg" group-title="Er Papi",objetivo la casa Blanca
 https://asnwish.com/gjj0kv7ln75e 
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington D.C." tvg-logo="https://i.pinimg.com/originals/30/34/db/3034db5829b062b7fddb25001a5fe745.jpg" group-title="Er Papi",Objetivo Washington D.C.
@@ -9,6 +11,18 @@ https://cache008.peliscdn.online/newhls/4f781a57af624f407548c74b672d2530/EP.0.2.
 https://cache007.peliscdn.online/newhls/e2b32689bb1e391cdf4334f6cbb8ee40/EP.0.1.v0.1709569238.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El colecionista de huesos" tvg-logo="https://www.cine-feuilles.ch/storage/app/uploads/public/5a3/cda/162/thumb_15033_360_480_0_0_auto.jpg" group-title="Er Papi",El colecionista de Huesos
 https://asnwish.com/e/mtyirvkxrw53
+#EXTINF:-1 tvg-id="" tvg-name="Miss Simpatia" tvg-logo="https://1.bp.blogspot.com/-Le1uKDHaBoU/Xw0Qwwjq6cI/AAAAAAAAAg0/DkF_vNXZJpY7MEqoR97kjNJaKZt9KrB8QCNcBGAsYHQ/s1033/Miss%2BSimpatia.jpg" group-title="Er Papi",Miss Simpatia
+https://cache006.peliscdn.online/newhls/270edc02cd08fd90fde2b113c6d03259/EP.0.1.v0.1708889741.1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Propuesta" tvg-logo="https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/18240-0-ov0tyowg5q0rcf881qastjixexpef5vm1r9ht8l6gw.jpg" group-title="Er Papi",La Propuesta
+https://cache013.peliscdn.online/newhls/f3315bc62e5836ca0849001c184bfa45/EP.0.1.v0.1708713394.360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Un sueño Posible" tvg-logo="https://pics.filmaffinity.com/the_blind_side-537970540-large.jpg" group-title="Er Papi",Un sueño Posible
+https://cache017.peliscdn.online/newhls/e610900dc0fdecbac30c782cfb0ca3f6/EP.0.1.v0.1708735821.1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mientras Dormia" tvg-logo="https://pics.filmaffinity.com/while_you_were_sleeping-654576905-large.jpg" group-title="Er Papi",Mientras Dormia
+https://cache014.peliscdn.online/newhls/4ce03e95f7eb76ebc5052adef395f790/EP.0.1.v0.1709005719.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box A ciegas" tvg-logo="https://pics.filmaffinity.com/bird_box-860040347-large.jpg" group-title="Er Papi",Bird Box A ciegas
+https://cache015.peliscdn.online/newhls/c411aee7538e51f6d0448b9b53262e67/EP.0.1.v0.1709061270.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LATIDOS" tvg-logo="https://pics.filmaffinity.com/latido-756389420-large.jpg" group-title="Er Papi",LATIDOS
+https://cache003.peliscdn.online/newhls/f4befa434e2f18701e202d5a7856fc76/EP.0.2.v0.1709623110.360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Angeles y Demonios" tvg-logo="https://canalhollywood.es/wp-content/uploads/posters/images/hollywoodes/poster/0000705851.jpg" group-title="Er Papi",Angeles y Demonios
 https://cache002.peliscdn.online/newhls/3cc15fe49827e0a1e99d12f030d1c075/EP.0.1.v0.1708893815.360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Robin Hood" tvg-logo="https://pics.filmaffinity.com/robin_hood-446623790-large.jpg" group-title="Er Papi",Robin Hood

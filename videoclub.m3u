@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title="▆ ▇ FEF TV ▇ ▆" tvg-id="", FEF TV 00
-acestream://ee38ea1806129de000bd7925a5d52554d70bb560
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title="▆ ▇ FEF TV ▇ ▆" tvg-id="", FEF TV 000
-acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
+
 
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 00" tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 00
 acestream://ee38ea1806129de000bd7925a5d52554d70bb560
@@ -94,6 +91,10 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.postimg.cc/rmqjcD39/liga6.png" ,M+ LaLigaTV 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
 
 
@@ -117,10 +118,7 @@ acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
 acestream://446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga SmartbankTV M8 HD" tvg-logo="https://i.postimg.cc/t4n63nbv/m8.png" ,M+ LaLiga Hypermotion 8
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 1080
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 720
-acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+
 
 
 

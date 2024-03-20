@@ -3,6 +3,11 @@
 acestream://ee38ea1806129de000bd7925a5d52554d70bb560
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title="▆ ▇ FEF TV ▇ ▆" tvg-id="", FEF TV 000
 acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
+
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 00" tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 00
+acestream://ee38ea1806129de000bd7925a5d52554d70bb560
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 000" tvg-logo="https://i.postimg.cc/wBbd0c9L/malaga.jpg" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 000
+acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 01" tvg-logo="https://i.ibb.co/Gsg9rdn/FEF-1-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 01
 http://newvps.globalbest.ovh:8080/Nabilteison5/y5TXmdWkuY7Z/43900
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 02" tvg-logo="https://i.ibb.co/Lzf4qRj/FEF-2-TV.png" group-title=" ▆ ▇ FEF TV ▇ ▆",FEF TV 02

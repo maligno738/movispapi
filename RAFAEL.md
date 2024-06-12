@@ -145,6 +145,8 @@ https://swdyu.com/681zrjx7wsct
 https://swdyu.com/e0h4z2wc7xzz
 #EXTINF:-1 tvg-id="" tvg-name="Oficina" tvg-logo="https://img.webme.com/pic/m/movispapi/oficina.jpg" group-title="XxX",Oficina
 https://swdyu.com/r8lf43l0uhrw
+#EXTINF:-1 tvg-id="" tvg-name="Españolo " tvg-logo="https://img.webme.com/pic/m/movispapi/espa%C3%B1a.jpg" group-title="XxX",Españolo
+https://swdyu.com/zv1saubq96va
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Passion",Passion-HD1
 http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_kennedynash2/content/vid01.mp4

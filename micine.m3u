@@ -774,6 +774,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7 " tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/09c7129535ed6e221197dd80f41a7a6c4da81feb311e08b713fa7b6c5f99acf0._RI_TTW_.jpg" group-title="Er Papi",ANA Y LOS 7
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b1611
 
+#EXTINF:0 tvg-id="BOXING TV "tvg-logo="https://s1.eestatic.com/2023/03/30/actualidad/752435605_232074096_1024x576.jpg" group-title="ES  DAZN",ES: BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:0 tvg-id="BOXING UFC "tvg-logo="https://gamingnerd.net/wp-content/uploads/2023/09/2241948.jpg" group-title="ES  DAZN",ES: BOXING UFC
+https://cps@d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 SD
 http://182060642233228384.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228384.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD

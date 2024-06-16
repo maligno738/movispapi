@@ -774,40 +774,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7 " tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/09c7129535ed6e221197dd80f41a7a6c4da81feb311e08b713fa7b6c5f99acf0._RI_TTW_.jpg" group-title="Er Papi",ANA Y LOS 7
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b1611
 
-#EXTINF:0 tvg-id="DAZN LA LIGA FHD "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA FHD
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:0 tvg-id="DAZN LA LIGA 720 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 720
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:0 tvg-id="DAZN LA LIGA 2 1080 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 2 1080
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:0 tvg-id="DAZN LA LIGA 2 720 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 2 720
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
-#EXTINF:0 tvg-id=" Dazn 1  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 1  1080
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:0 tvg-id=" Dazn 1  720 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 1  720
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:0 tvg-id=" Dazn 2  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 2  1080
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:0 tvg-id=" Dazn 3  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 3  1080
-acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:0 tvg-id=" Dazn 4  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 4  1080
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:0 tvg-id="DAZN F1 FHD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 FHD
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:0 tvg-id="DAZN F1 FHD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 FHD
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:0 tvg-id="DAZN F1 HD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 HD
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:0 tvg-id="F1 1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: F1 1080
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:0 tvg-id="Dazn F1 720 "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: Dazn F1 720
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-
-
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 SD
 http://182060642233228384.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228384.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD

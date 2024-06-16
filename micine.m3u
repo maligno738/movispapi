@@ -804,11 +804,8 @@ http://182060642233228398.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228398.ts
 http://182060642233228399.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228399.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
 http://182060642233373766.of1124.xyz:80/play/vi829693/Wan6cEwDvt/373766.ts
-
-#EXTINF:0 tvg-id="ext" group-title="SVIP MotoGP PPV",PPV| MotoGP: Main Race
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: MOTO GP Main Race
 http://182060642233609058.of1124.xyz:80/play/vi829693/Wan6cEwDvt/609058.ts
-#EXTINF:0 tvg-id="ext" group-title="SVIP MotoGP PPV",PPV| MotoGP: Heli Cam
-http://182060642233609059.of1124.xyz:80/play/vi829693/Wan6cEwDvt/609059.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
 http://182060642233165257.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165257.ts
@@ -818,7 +815,6 @@ http://182060642233165418.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165418.ts
 http://182060642233165419.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165419.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HEVC
 http://182060642233318564.of1124.xyz:80/play/vi829693/Wan6cEwDvt/318564.ts
-
 
 #EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 HD
 http://182060642233320779.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320779.ts

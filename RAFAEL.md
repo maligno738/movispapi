@@ -108,6 +108,10 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:0 tvg-id="Dazn F1 720 "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: Dazn F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:0 tvg-id="BOXING TV "tvg-logo="https://s1.eestatic.com/2023/03/30/actualidad/752435605_232074096_1024x576.jpg" group-title="DAZN Stream",ES: BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:0 tvg-id="BOXING UFC "tvg-logo="https://gamingnerd.net/wp-content/uploads/2023/09/2241948.jpg" group-title="DAZN Stream",ES: BOXING UFC
+https://cps@d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
 
 EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/445?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465

@@ -774,31 +774,72 @@ https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7 " tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/09c7129535ed6e221197dd80f41a7a6c4da81feb311e08b713fa7b6c5f99acf0._RI_TTW_.jpg" group-title="Er Papi",ANA Y LOS 7
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b1611
 
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 101 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 101 (2024) 
-https://swhoi.com/ari1qicxm5lb
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 102 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 102 (2024) 
-https://swhoi.com/h8iwz61fqgwz
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 103 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 103 (2024) 
-https://swhoi.com/9u15eoy3ixj1
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 104 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 104 (2024) 
-https://swhoi.com/zjcuwzoxrni4
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 105 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 105 (2024) 
-https://swhoi.com/6stpsz5qv0my
-#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 106 FIN 1º TEMPORADA " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 106 FIN 1º TEMPORADA 
-https://swdyu.com/umsnnljh00pc
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 SD
+http://182060642233228384.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228384.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD
+http://182060642233228385.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 HD
+http://182060642233228388.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228388.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD
+http://182060642233228389.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228389.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (H265) FHD
+http://182060642233228390.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228390.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD (H265) SD
+http://182060642233228391.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228391.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD (H265) FHD
+http://182060642233228392.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD
+http://182060642233228393.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228393.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 HD
+http://182060642233228394.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228394.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 SD
+http://182060642233228395.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228395.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 FHD (H265) FHD
+http://182060642233228396.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228396.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 FHD
+http://182060642233228397.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228397.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 HD
+http://182060642233228398.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 SD
+http://182060642233228399.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228399.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
+http://182060642233373766.of1124.xyz:80/play/vi829693/Wan6cEwDvt/373766.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa124" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa124
-https://jodwish.com/y4uiliyd9to7
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa125" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa125
-https://jodwish.com/ik6oht47a5wi
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa126" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa126
-https://jodwish.com/k179k5aoc7zf
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa127" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa127
-https://jodwish.com/i32sq4819age
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa128" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa128  
-https://jodwish.com/vche0d55z11e
-#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR FINAL 129" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR FINAL 129  
-https://jodwish.com/683osxlsrxcu
+#EXTINF:0 tvg-id="ext" group-title="SVIP MotoGP PPV",PPV| MotoGP: Main Race
+http://182060642233609058.of1124.xyz:80/play/vi829693/Wan6cEwDvt/609058.ts
+#EXTINF:0 tvg-id="ext" group-title="SVIP MotoGP PPV",PPV| MotoGP: Heli Cam
+http://182060642233609059.of1124.xyz:80/play/vi829693/Wan6cEwDvt/609059.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
+http://182060642233165257.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165257.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
+http://182060642233165418.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165418.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
+http://182060642233165419.of1124.xyz:80/play/vi829693/Wan6cEwDvt/165419.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HEVC
+http://182060642233318564.of1124.xyz:80/play/vi829693/Wan6cEwDvt/318564.ts
+
+
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 HD
+http://182060642233320779.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320779.ts
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 FHD
+http://182060642233320780.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320780.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA HD
+http://182060642233320781.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320781.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD
+http://182060642233320782.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320782.ts
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ES  DAZN LALIGA",ES:DAZN LALIGA SD
+http://182060642233320792.of1124.xyz:80/play/vi829693/Wan6cEwDvt/320792.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 3 HD
+http://182060642233501466.of1124.xyz:80/play/vi829693/Wan6cEwDvt/501466.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 3 SD
+http://182060642233501467.of1124.xyz:80/play/vi829693/Wan6cEwDvt/501467.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 4 HD
+http://182060642233501468.of1124.xyz:80/play/vi829693/Wan6cEwDvt/501468.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 4 SD
+http://182060642233501469.of1124.xyz:80/play/vi829693/Wan6cEwDvt/501469.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 5 SD
+http://182060642233501470.of1124.xyz:80/play/vi829693/Wan6cEwDvt/501470.ts
 
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://182060642233321276.of1124.xyz:80/play/vi829693/Wan6cEwDvt/321276.ts
@@ -1274,5 +1315,29 @@ http://182060642233660537.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660537.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LALIGA+ 24/7 FHD
 http://182060642233660538.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660538.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 101 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 101 (2024) 
+https://swhoi.com/ari1qicxm5lb
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 102 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 102 (2024) 
+https://swhoi.com/h8iwz61fqgwz
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 103 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 103 (2024) 
+https://swhoi.com/9u15eoy3ixj1
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 104 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 104 (2024) 
+https://swhoi.com/zjcuwzoxrni4
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 105 (2024) " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 105 (2024) 
+https://swhoi.com/6stpsz5qv0my
+#EXTINF:-1 tvg-id="" tvg-name="MARBELLA 106 FIN 1º TEMPORADA " tvg-logo="https://pics.filmaffinity.com/marbella-723511755-large.jpg" group-title="Alex MARBELLA",MARBELLA 106 FIN 1º TEMPORADA 
+https://swdyu.com/umsnnljh00pc
 
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa124" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa124
+https://jodwish.com/y4uiliyd9to7
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa125" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa125
+https://jodwish.com/ik6oht47a5wi
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa126" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa126
+https://jodwish.com/k179k5aoc7zf
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa127" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa127
+https://jodwish.com/i32sq4819age
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR Rosa128" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR Rosa128  
+https://jodwish.com/vche0d55z11e
+#EXTINF:-1 tvg-id="" tvg-name="P-SOÑADOR FINAL 129" tvg-logo="https://img.webme.com/pic/m/movispapi/OIP22.jpg" group-title="ChurriRosa",P-SOÑADOR FINAL 129  
+https://jodwish.com/683osxlsrxcu
 

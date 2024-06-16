@@ -80,6 +80,35 @@ http://182060642233660537.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660537.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LALIGA+ 24/7 FHD
 http://182060642233660538.of1124.xyz:80/play/vi829693/Wan6cEwDvt/660538.ts
 
+#EXTINF:0 tvg-id="DAZN LA LIGA FHD "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA FHD
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:0 tvg-id="DAZN LA LIGA 720 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:0 tvg-id="DAZN LA LIGA 2 1080 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 2 1080
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:0 tvg-id="DAZN LA LIGA 2 720 "tvg-logo="https://i.ibb.co/MPy71LM/dazn.png" group-title="DAZN Stream",ES: DAZN LA LIGA 2 720
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:0 tvg-id=" Dazn 1  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 1  1080
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:0 tvg-id=" Dazn 1  720 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 1  720
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:0 tvg-id=" Dazn 2  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 2  1080
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:0 tvg-id=" Dazn 3  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 3  1080
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:0 tvg-id=" Dazn 4  1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/zda4rvw0bm1j5wn/DAZN%201.png" group-title="DAZN Stream",ES: Dazn 4  1080
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:0 tvg-id="DAZN F1 FHD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 FHD
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:0 tvg-id="DAZN F1 FHD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 FHD
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:0 tvg-id="DAZN F1 HD "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: DAZN F1 HD
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:0 tvg-id="F1 1080 "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: F1 1080
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:0 tvg-id="Dazn F1 720 "tvg-logo="https://www.dl.dropboxusercontent.com/s/znfcwrmy86z1ta1/DAZN%20F1.jpg" group-title="DAZN Stream",ES: Dazn F1 720
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+
 EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD
 http://f9d6efb5e3bf3c50f1eeaf022d497d57.lig.iscaja.me:25461/KHurtuAt4c/912380638349/445?h=2fa84bb030f55384d67ed687c3108d825b46f215&z=94.130.221.29&i=29465
 #EXTINF:0 tvg-id="ext" group-title="SPAIN CHAMPION",M+ LCAMPEONES HD+

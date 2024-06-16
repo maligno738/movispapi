@@ -774,6 +774,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7 " tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/09c7129535ed6e221197dd80f41a7a6c4da81feb311e08b713fa7b6c5f99acf0._RI_TTW_.jpg" group-title="Er Papi",ANA Y LOS 7
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b1611
 
+#EXTINF:0 tvg-id="DAZN LA LIGA FHD" group-title="DAZN Stream",ES: DAZN LA LIGA FHD
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:0 tvg-id="DAZN F1 FHD" group-title="DAZN Stream",ES: DAZN F1 FHD
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:0 tvg-id="DAZN F1 FHD" group-title="DAZN Stream",ES: DAZN F1 FHD
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:0 tvg-id="DAZN F1 HD" group-title="DAZN Stream",ES: DAZN F1 HD
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:0 tvg-id="F1 1080" group-title="DAZN Stream",ES: F1 1080
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:0 tvg-id="Dazn F1 720" group-title="DAZN Stream",ES: Dazn F1 720
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 SD
 http://182060642233228384.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228384.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD

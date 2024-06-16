@@ -778,12 +778,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u
 http://182060642233228384.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228384.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD
 http://182060642233228385.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
+http://182060642233373766.of1124.xyz:80/play/vi829693/Wan6cEwDvt/373766.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (H265) FHD
+http://182060642233228390.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228390.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 HD
 http://182060642233228388.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228388.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD
 http://182060642233228389.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228389.ts
-#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (H265) FHD
-http://182060642233228390.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228390.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD (H265) SD
 http://182060642233228391.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228391.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD (H265) FHD
@@ -802,8 +804,6 @@ http://182060642233228397.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228397.ts
 http://182060642233228398.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 SD
 http://182060642233228399.of1124.xyz:80/play/vi829693/Wan6cEwDvt/228399.ts
-#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
-http://182060642233373766.of1124.xyz:80/play/vi829693/Wan6cEwDvt/373766.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: MOTO GP Main Race
 http://182060642233609058.of1124.xyz:80/play/vi829693/Wan6cEwDvt/609058.ts
 

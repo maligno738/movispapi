@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Tigres y Hienas" tvg-logo="https://pics.filmaffinity.com/tigres_et_hyenes-266316254-large.jpg" group-title="Er Papi",Tigres y Hiernas (2024)
+https://iplayerhls.com/89t0khi8z8qt
+#EXTINF:-1 tvg-id="" tvg-name="Sin Rastro " tvg-logo="https://pics.filmaffinity.com/boneyard-655180673-large.jpg" group-title="Er Papi",Sin Rastro (2024)
+https://iplayerhls.com/5c8nelwt611j
+#EXTINF:-1 tvg-id="" tvg-name="El Siencio de las Palabras" tvg-logo="https://pics.filmaffinity.com/out_of_my_mind-618448417-large.jpg" group-title="Er Papi",El Silencio de las Palabras (2024)
+https://iplayerhls.com/mbthj3b03l47
+#EXTINF:-1 tvg-id="" tvg-name="Hechizados 2024" tvg-logo="https://pics.filmaffinity.com/spellbound-740200979-large.jpg" group-title="Er Papi",Hechizados (2024)
+https://iplayerhls.com/nxowshh113f9
 #EXTINF:-1 tvg-id="" tvg-name="Guardiana de Dragones" tvg-logo="https://pics.filmaffinity.com/dragonkeeper_guardiana_de_dragones-704965977-large.jpg" group-title="Er Papi",Guardiana de Dragones (2024)
 https://iplayerhls.com/lcrprl5jsfvh
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BLADE" tvg-logo="https://pics.filmaffinity.com/tian_jiang_xiong_shi_dragon_blade-716923837-large.jpg" group-title="Er Papi",DRAGON BLADE

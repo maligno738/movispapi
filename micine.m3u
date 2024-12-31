@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="SONIC 3 (2024)" tvg-logo="https://pics.filmaffinity.com/sonic_the_hedgehog_3-737206072-large.jpg" group-title="Er Papi",SONIC 3 (2024)
 https://iplayerhls.com/p5heu8094lgw
+#EXTINF:-1 tvg-id="" tvg-name="MUFASA REY LEON (2024)" tvg-logo="https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg" group-title="Er Papi",MUFASA REY LEON (2024)
+https://iplayerhls.com/fqgbm33lw31t
+#EXTINF:-1 tvg-id="" tvg-name="MOANA2 (2024)" tvg-logo="https://pics.filmaffinity.com/moana_2-581593866-large.jpg" group-title="Er Papi",MOANA2 (2024)
+https://iplayerhls.com/fcmwk2e0jp65
 #EXTINF:-1 tvg-id="" tvg-name="EL TREN DE LOS NIÑOS (2024)" tvg-logo="https://pics.filmaffinity.com/il_treno_dei_bambini-993617059-large.jpg" group-title="Er Papi",EL TREN DE LOS NIÑOS (2024)
 https://iplayerhls.com/uq8vl85anbct
 #EXTINF:-1 tvg-id="" tvg-name="EL RETO DE SU VIDA (2022)" tvg-logo="https://pics.filmaffinity.com/tyson_s_run-715718761-large.jpg" group-title="Er Papi",EL RETO DE SU VIDA (2022)
@@ -9,8 +13,6 @@ https://iplayerhls.com/4hwovwasvb4o
 https://iplayerhls.com/mm75q98h9a4k
 #EXTINF:-1 tvg-id="" tvg-name="CULPA TUYA (2024)" tvg-logo="https://pics.filmaffinity.com/culpa_tuya-649487543-large.jpg" group-title="Er Papi",CULPA TUYA (2024)
 https://iplayerhls.com/vmh6usidscz5
-#EXTINF:-1 tvg-id="" tvg-name="MUFASA REY LEON (2024)" tvg-logo="https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg" group-title="Er Papi",MUFASA REY LEON (2024)
-https://iplayerhls.com/fqgbm33lw31t
 #EXTINF:-1 tvg-id="" tvg-name="LADRONAS (2023)" tvg-logo="https://pics.filmaffinity.com/voleuses-888923235-large.jpg" group-title="Er Papi",LADRONAS (2023)
 https://iplayerhls.com/073r5enpudjz
 #EXTINF:-1 tvg-id="" tvg-name="LA HORA DEL SILENCIO (2024)" tvg-logo="https://pics.filmaffinity.com/the_silent_hour-963873470-large.jpg" group-title="Er Papi",LA HORA DEL SILENCIO (2024)
@@ -45,8 +47,6 @@ https://iplayerhls.com/evg6qe5uqp3u
 https://iplayerhls.com/qq398tvon0v9
 #EXTINF:-1 tvg-id="" tvg-name="MARIA (2024)" tvg-logo="https://pics.filmaffinity.com/mary-484632190-large.jpg" group-title="Er Papi",MARIA (2024)
 https://iplayerhls.com/x6175p0byr92
-#EXTINF:-1 tvg-id="" tvg-name="MOANA2 (2024)" tvg-logo="https://pics.filmaffinity.com/moana_2-581593866-large.jpg" group-title="Er Papi",MOANA2 (2024)
-https://iplayerhls.com/fcmwk2e0jp65
 #EXTINF:-1 tvg-id="" tvg-name="GLADIATOR 2" tvg-logo="https://pics.filmaffinity.com/gladiator_ii-808387712-large.jpg" group-title="Er Papi",GLADIATOR 2 (2024)
 https://iplayerhls.com/i6wvv4xzpu9n
 #EXTINF:-1 tvg-id="" tvg-name="Red One" tvg-logo="https://pics.filmaffinity.com/red_one-326062250-large.jpg" group-title="Er Papi",RED ONE (2024)

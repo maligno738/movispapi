@@ -447,6 +447,20 @@ https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Eventuales" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/7_virgenes-857681604-mmed.jpg"group-title="Eventuales",7 vírgenes 2005
+https://rtvehlsvodlote7modo2.rtve.es/resources/TE_NGVA/mp4/2/0/1631699078602.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/perros_callejeros-905880297-mmed.jpg",Perros Callejeros 1 (1977) 
+https://player.odycdn.com/v6/streams/9ad77888052894a858ed5a88a3b7eaecdb85d911/28bf6ed9406b5ddf86d97c81dd28ebf6e4ba449879ed18be658087458c33994f36acc8b5e93b4fcac43825437ad59745/master.m3u8
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/papa_piquillo-143004557-mmed.jpg",Papa Piquillo 1998
+https://ok.ru/videoembed/6180129606270
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aqui_llega_condemor_el_pecador_de_la_pradera-499996633-mmed.jpg",Aquí Llega Condemor El Pecador De La Pradera 1996
+https://ok.ru/videoembed/6180129540734
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_e_t_e_y_el_oto-562948552-mmed.jpg",El E.T.E.y el Oto 1983  
+https://ok.ru/videoembed/6152127908478
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/no_hija_no-524627637-mmed.jpg",¡No hija no! (1987)
+https://ok.ru/videoembed/6633173027350
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/hacienda_somos_casi_todos-636484975-mmed.jpg",Hacienda somos casi todos 1988
+https://ok.ru/videoembed/6600817183254
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PERDONAME SEÑOR" tvg-logo="https://pics.filmaffinity.com/perdoname_senor-829862924-large.jpg" group-title="PERDONAME SEÑOR",PERDONAME SEÑOR 101

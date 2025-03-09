@@ -409,6 +409,46 @@ https://playerwish.com/683yltat6p9k
 https://playerwish.com/vu2f1wbjziqc
 
 
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Eventuales" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Eventuales" tvg-name="El Toro TV",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-id="A3P_Comedia.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Comedia",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-id="A3P_MentesInqui.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1 tvg-id="A3P_Multicine.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Multicine",Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-id="A3P_Hormiguero.TV" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Eventuales" tvg-name="El Hormiguero",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-id="A3P_ClubComedia.TV" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Eventuales" tvg-name="El club de la comedia",El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:-1 tvg-id="A3P_EqInvestigacion.TV" tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Eventuales" tvg-name="Equipo de investigación",Equipo de investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-id="A3P_AquiNoHayQ.TV" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Eventuales" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="Eventuales" tvg-name="Física o química",Física o química
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:-1 tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="RTVE La Moderna",RTVE La Moderna
+https://ztnr.rtve.es/ztnr/2472038.m3u8
+#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="RTVE Cuéntame",RTVE Cuéntame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="RTVE Somos Cine",RTVE Somos Cine
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Eventuales" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Eventuales" tvg-name="Clan",Clan GEO
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Eventuales" tvg-name="Clan",Clan GEO
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Eventuales" tvg-name="Clan",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Eventuales" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PERDONAME SEÑOR" tvg-logo="https://pics.filmaffinity.com/perdoname_senor-829862924-large.jpg" group-title="PERDONAME SEÑOR",PERDONAME SEÑOR 101
 https://hlswish.com/phqrj47q2xz0
 #EXTINF:-1 tvg-id="" tvg-name="PERDONAME SEÑOR" tvg-logo="https://pics.filmaffinity.com/perdoname_senor-829862924-large.jpg" group-title="PERDONAME SEÑOR",PERDONAME SEÑOR 102

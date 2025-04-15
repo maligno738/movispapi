@@ -28,7 +28,20 @@ https://uqload.co/embed-dmim4o27llvh.html
 #EXTINF:-1 tvg-id=" tvg-name="LA LIGA TV HYPERMOTION FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/igz04nkgrum87wy/MLIGS.png" group-title="BALONPIE", LA LIGA TV HYPERMOTION FHD
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id=" tvg-name="LA LIGA TV HYPERMOTION HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/igz04nkgrum87wy/MLIGS.png" group-title="BALONPIE", LA LIGA TV HYPERMOTION HD
-acestream://121f719ebb94193c6086ef92865cf9b197750980    
+acestream://121f719ebb94193c6086ef92865cf9b197750980 
+#EXTINF:-1 tvg-id=" tvg-name="LA LIGA TV HYPERMOTION 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="BALONPIE", LA LIGA TV HYPERMOTION 2 FHD
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d 
+#EXTINF:-1 tvg-id=" tvg-name="LA LIGA TV HYPERMOTION 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/3i32agnww8laeu4/MLIGS2.png" group-title="BALONPIE", LA LIGA TV HYPERMOTION 2 HD
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 tvg-id=" tvg-name="LA LIGA TV HYPERMOTION 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/ehrn357859rjt9a/MLIGS3.png" group-title="BALONPIE", LA LIGA TV HYPERMOTION 3 FHD
+acestream://20196007a6697a1f11589fd4c8bab6713c265e64
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Eventuales" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8

@@ -177,7 +177,18 @@ https://stitcher.pluto.tv/stitch/hls/channel/67921b873de7c8cf94233f52/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/657868a7a620e30008fdbfeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
 #EXTINF:-1 tvg-id="SENSACION VIVIR" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png" group-title="TV-PAPI",SENSACION DE VIVIR
 https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
-
+#EXTINF:-1 tvg-id="VIGILANTES PLAYA" tvg-logo="https://images.pluto.tv/channels/664c76520120f40008b81db9/colorLogoPNG.png" group-title="TV-PAPI",VIGILANTES PLAYA
+https://stitcher.pluto.tv/stitch/hls/channel/664c76520120f40008b81db9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:-1 tvg-id="WALKER RANGER" tvg-logo="https://images.pluto.tv/channels/65786e2c32c1b300089a4d21/colorLogoPNG.png" group-title="TV-PAPI",WALKER RANGER
+https://stitcher.pluto.tv/stitch/hls/channel/65786e2c32c1b300089a4d21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:-1 tvg-id="BLUE BLOODS" tvg-logo="https://images.pluto.tv/channels/65786a1ccbd0d60008f7e2a9/colorLogoPNG.png" group-title="TV-PAPI",BLUE BLOODS
+https://stitcher.pluto.tv/stitch/hls/channel/65786a1ccbd0d60008f7e2a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:-1 tvg-id="ALERTA COBRA" tvg-logo="https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png" group-title="TV-PAPI",ALERTA COBRA
+https://stitcher.pluto.tv/stitch/hls/channel/664c76d68ea5560008c6c7a4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:-1 tvg-id="EL COMISARIO" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="TV-PAPI",EL COMISARIO
+https://stitcher.pluto.tv/stitch/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:-1 tvg-id="CHERIF" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png" group-title="TV-PAPI",CHERIF
+https://stitcher.pluto.tv/stitch/hls/channel/66d71c656b63480008cf0427/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
 
 
 

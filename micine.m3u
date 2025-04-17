@@ -173,6 +173,10 @@ https://ztnr.rtve.es/ztnr/16519534.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=efafffc7-cb21-11ed-9573-62c194ee7b161
 #EXTINF:-1 tvg-id="UFC" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png" group-title="TV-PAPI",U F C
 https://stitcher.pluto.tv/stitch/hls/channel/67921b873de7c8cf94233f52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+#EXTINF:0 tvg-id="BOXING TV "tvg-logo="https://s1.eestatic.com/2023/03/30/actualidad/752435605_232074096_1024x576.jpg" group-title="TV-PAPI",ES: BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:0 tvg-id="BOXING UFC "tvg-logo="https://gamingnerd.net/wp-content/uploads/2023/09/2241948.jpg" group-title="TV-PAPI",ES: BOXING UFC
+https://cps@d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
 #EXTINF:-1 tvg-id="EMBRUJADAS" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png" group-title="TV-PAPI",EMBRUJADAS
 https://stitcher.pluto.tv/stitch/hls/channel/657868a7a620e30008fdbfeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
 #EXTINF:-1 tvg-id="SENSACION VIVIR" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png" group-title="TV-PAPI",SENSACION DE VIVIR
@@ -534,22 +538,6 @@ https://ok.ru/video/5046406482514
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBKoWVRgUwtoovFz4LeUO7heI0i.jpg",Cosas de casa - 150. Problemas de puntualidad
 https://ok.ru/video/5046409693778
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="BOXING TV "tvg-logo="https://s1.eestatic.com/2023/03/30/actualidad/752435605_232074096_1024x576.jpg" group-title="BOXEO",ES: BOXING TV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-#EXTINF:0 tvg-id="BOXING UFC "tvg-logo="https://gamingnerd.net/wp-content/uploads/2023/09/2241948.jpg" group-title="BOXEO",ES: BOXING UFC
-https://cps@d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
 
 
 

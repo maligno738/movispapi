@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="El Masajista " tvg-logo="https://img.webme.com/pic/m/movispapi/ouo2323.jpg" group-title="XxX",El Masajista
-https://swdyu.com/y27ixq1yvnh2
-#EXTINF:-1 tvg-id="" tvg-name="La Playita" tvg-logo="https://img.webme.com/pic/m/movispapi/playero.jpg" group-title="XxX",La Playita
-https://swdyu.com/681zrjx7wsct 
-#EXTINF:-1 tvg-id="" tvg-name="Las Almejitas" tvg-logo="https://img.webme.com/pic/m/movispapi/2024-06-12_153917.jpg" group-title="XxX",Las Almejitas
-https://swdyu.com/e0h4z2wc7xzz
-#EXTINF:-1 tvg-id="" tvg-name="Oficina" tvg-logo="https://img.webme.com/pic/m/movispapi/oficina.jpg" group-title="XxX",Oficina
-https://swdyu.com/r8lf43l0uhrw
-#EXTINF:-1 tvg-id="" tvg-name="Españolo " tvg-logo="https://img.webme.com/pic/m/movispapi/espa%C3%B1a.jpg" group-title="XxX",Españolo
-https://swdyu.com/zv1saubq96va
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Passion",Passion-HD1
 http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_kennedynash2/content/vid01.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Passion",Passion-HD2
@@ -256,38 +245,6 @@ http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
 #EXTINF:-1 group-title="ADULT 5",21
 http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="ADULTO - BÁSICO" pltv-subgroup="PLANO BÁSICO",Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
 
 #EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png"  group-title="ADULTO" ,BÁSICO
 http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
@@ -376,80 +333,7 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/interracial.m3u8
 
 
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO
-https://uqload.com/embed-6ach3t0mayf2.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 2
-https://uqload.com/embed-cwqajnu4sr1q.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 3
-https://uqload.com/embed-63ijwqdrmvu7.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 4
-https://uqload.com/embed-1wtym2xxfz6p.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 5
-https://uqload.com/embed-1yozdpsyt5ge.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 6
-https://uqload.com/embed-qbc622kjowy9.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 7
-https://uqload.com/embed-yzb2mw5fc43n.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 8
-https://uqload.com/embed-p4wb7qnul0vt.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 9
-https://uqload.com/embed-3zu05toge2sd.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 10
-https://uqload.com/embed-l7wqp0uaogte.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 11
-https://uqload.com/embed-8fgtvify5ybv.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 12
-https://uqload.com/embed-0blbzo9cvuc4.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 13
-https://uqload.com/embed-k0xne6to4219.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 14 
-https://uqload.com/embed-u18w057u1vnv.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 15
-https://uqload.com/embed-flp5lzopxneh.html
-#EXTINF:-1 tvg-name="S E R I E S" tvg-logo="https://www.dl.dropboxusercontent.com/s/vi0pc12zarezsyl/serie-loshombresdepaco.jpg" group-title="LOS HOMBRES DE PACO ",LOS HOMBRES DE PACO 16
-https://uqload.co/embed-nkvah9mnd00d.html
 
-
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY
-https://uqload.com/embed-phyaa9bkmtjd.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 2
-https://uqload.com/embed-v78nyduqwt7e.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 3
-https://uqload.com/embed-xz6ehll26lve.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 4
-https://uqload.com/embed-knkn9km9f1cd.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 5
-https://uqload.com/embed-01hq1u5hb6ix.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 6
-https://uqload.com/aqi628jk9d2h.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 7  
-https://uqload.com/9mhjb4sgsyqj.html
-#EXTINF:-1 tvg-name="CRISTO" tvg-logo="https://www.dl.dropboxusercontent.com/s/2iffjinz5ujy2ub/cristoyrey.jpg" group-title="CRISTO Y REY ",CRISTO Y REY 8
-https://uqload.co/embed-t4tgjv9axc18.html
-
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 1 - Otro mundo
-https://uqload.com/embed-ayiy7yj2dai7.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 2 - Mi hermana Sara
-https://uqload.com/embed-qhuf1vdnn8t8.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 3 - Los niños perdidos
-https://uqload.com/embed-d8kk0e6xd21p.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 4 - El roce de la piel
-https://uqload.com/embed-g6l4czasl50v.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 6 - Los pájaros
-https://uqload.com/embed-9ww98wvgklp3.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 7 - Un asunto de familia
-https://uqload.com/embed-c8vxdd62wxwh.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 8 - El hijo de nadie
-https://uqload.com/embed-v7jnvksz5bjc.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 9 - Recuerda quién eres
-https://uqload.com/embed-cl6azfk5qwxe.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 10 - La zona de sombra
-https://uqload.com/embed-yi9v5t7v5l3s.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 11 - La soledad de dos
-https://uqload.com/embed-acvqgb33e6ej.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 12 - El discurso
-https://uqload.com/embed-9oicmcwy9y8j.html
-#EXTINF:-1 tvg-name="LA VALLA" tvg-logo="https://i.ibb.co/gyrzqs1/La-valla-Serie-de-TV-283039398-large.jpg" group-title="LA VALLA ",Capítulo 13 - El futuro os pertenece
 https://uqload.com/embed-mctr0o95avpg.html
 
 
